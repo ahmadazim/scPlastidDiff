@@ -1,0 +1,566 @@
+Accession,STD Annot.,Curated Loc.
+AT1G02410.1,cytochrome c oxidase assembly protein CtaG / Cox11 family,mitochondria
+AT1G03090.1,"methylcrotonyl-CoA carboxylase alpha chain, mitochondrial / 3-methylcrotonyl-CoA carboxylase 1 (MCCA)",mitochondria
+AT1G03090.2,"methylcrotonyl-CoA carboxylase alpha chain, mitochondrial / 3-methylcrotonyl-CoA carboxylase 1 (MCCA)",mitochondria
+AT1G03860.1,prohibitin 2,mitochondria
+AT1G04630.1,maternal effect embryo arrest 4 (MEE4); CONTAINS InterPro DOMAIN/s: GRIM-19 (InterPro:IPR009346); BEST Arabidopsis thaliana protein match is: GRIM-19 protein (TAIR:AT2G33220.1); Has 332 Blast hits to 332 proteins in 145 species: Archae - 0; Bacteria - 0; Metazoa - 162; Fungi - 83; Plants - 65; Viruses - 0; Other Eukaryotes - 22 (source: NCBI BLink).,mitochondria
+AT1G04640.1,"Lipoyltransferase, located in mitochondria but not found in chloroplasts",mitochondria
+AT1G04640.2,lipoyltransferase 2,mitochondria
+AT1G06790.1,RNA polymerase Rpb7 N-terminal domain-containing protein,mitochondria
+AT1G07180.1,alternative NAD(P)H dehydrogenase 1,peroxisome; mitochondria
+AT1G07510.1,FTSH protease 10,mitochondria
+AT1G07615.1,GTP-binding protein Obg/CgtA,mitochondria
+AT1G07620.1,"ATOBGM; FUNCTIONS IN: magnesium ion binding, GTP binding, GTPase activity; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; CONTAINS InterPro DOMAIN/s: GTP-binding protein Obg/CgtA (InterPro:IPR014100); BEST Arabidopsis thaliana protein match is: Protein of unknown function (DUF3741) (TAIR:AT5G02390.1); Has 561 Blast hits to 511 proteins in 87 species: Archae - 0; Bacteria - 20; Metazoa - 47; Fungi - 31; Plants - 219; Viruses - 2; Other Eukaryotes - 242 (source: NCBI BLink).",mitochondria
+AT1G08130.1,DNA ligase 1,mitochondria; cytosol
+AT1G08480.1,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, plasma membrane, plastid, vacuole; EXPRESSED IN: 27 plant structures; EXPRESSED DURING: 15 growth stages; Has 39 Blast hits",mitochondria
+AT1G09300.1,Metallopeptidase M24 family protein,mitochondria
+AT1G09300.2,Metallopeptidase M24 family protein,mitochondria
+AT1G11870.1,Seryl-tRNA synthetase,plastid stroma; mitochondria
+AT1G11870.2,Seryl-tRNA synthetase targeted to chloroplasts and mitochondria. Its inactivation causes developmental arrest of chloroplasts and mitochondria in Nicotiana benthamiana.,plastid stroma; mitochondria
+AT1G11870.3,Seryl-tRNA synthetase targeted to chloroplasts and mitochondria. Its inactivation causes developmental arrest of chloroplasts and mitochondria in Nicotiana benthamiana.,plastid stroma; mitochondria
+AT1G13270.1,methionine aminopeptidase 1B,plastid stroma; mitochondria
+AT1G13270.2,methionine aminopeptidase 1B,plastid stroma; mitochondria
+AT1G13900.1,Purple acid phosphatases superfamily protein,mitochondria; envelope-outer
+AT1G14270.1,CAAX amino terminal protease family protein,plastid; mitochondria
+AT1G14270.2,"CAAX amino terminal protease family protein; INVOLVED IN: proteolysis; LOCATED IN: endomembrane system, membrane; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Abortive infection protein (InterPro:IPR003675); BEST Arabidopsis thaliana protein match is: CAAX amino terminal protease family protein (TAIR:AT5G60750.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",plastid; mitochondria
+AT1G14270.3,CAAX amino terminal protease family protein; INVOLVED IN: proteolysis; LOCATED IN: membrane; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Abortive infection protein (InterPro:IPR003675); BEST Arabidopsis thaliana protein match is: CAAX amino terminal protease family protein (TAIR:AT5G60750.1); Has 3768 Blast hits to 3768 proteins in 1001 species: Archae - 88; Bacteria - 3268; Metazoa - 0; Fungi - 0; Plants - 132; Viruses - 0; Other Eukaryotes - 280 (source: NCBI BLink).,plastid; mitochondria
+AT1G14270.4,CAAX amino terminal protease family protein; INVOLVED IN: proteolysis; LOCATED IN: membrane; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Abortive infection protein (InterPro:IPR003675); BEST Arabidopsis thaliana protein match is: CAAX amino terminal protease family protein (TAIR:AT5G60750.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,plastid; mitochondria
+AT1G14610.1,valyl-tRNA synthetase / valine--tRNA ligase (VALRS),mitochondria
+AT1G14980.1,chaperonin 10,mitochondria
+AT1G15390.1,peptide deformylase 1A,plastid; mitochondria
+AT1G17290.1,alanine aminotransferas,mitochondria
+AT1G17530.1,translocase of inner mitochondrial membrane 23,mitochondria
+AT1G18320.1,"Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein; FUNCTIONS IN: protein transporter activity, P-P-bond-hydrolysis-driven protein transmembrane transporter activity; INVOLVED IN: protein transport; LOCATED IN: mitochondrial inner membrane, mitochondrial inner membrane presequence translocase complex; CONTAINS InterPro DOMAIN/s: Mitochondrial inner membrane translocase complex, subunit Tim17/22 (InterPro:IPR003397); BEST Arabidopsis thaliana protein match is: Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein (TAIR:AT3G10110.1); Has 671 Blast hits to 671 proteins in 187 species: Archae - 0; Bacteria - 0; Metazoa - 261; Fungi - 229; Plants - 123; Viruses - 0; Other Eukaryotes - 58 (source: NCBI BLink).",mitochondria
+AT1G18600.1,RHOMBOID-like protein 12,mitochondria
+AT1G19140.1,"FUNCTIONS IN: molecular_function unknown; INVOLVED IN: ubiquinone biosynthetic process; LOCATED IN: mitochondrion; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: COQ9 (InterPro:IPR013718), Ubiquinon",mitochondria
+AT1G19140.2,"FUNCTIONS IN: molecular_function unknown; INVOLVED IN: ubiquinone biosynthetic process; LOCATED IN: mitochondrion; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: COQ9 (InterPro:IPR013718), Ubiquinone biosynthesis protein COQ9 (InterPro:IPR012762); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",mitochondria
+AT1G20350.1,mitochondrial inner membrane translocase,mitochondria
+AT1G21150.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT1G22450.1,cytochrome C oxidase 6B,mitochondria
+AT1G22660.1,Polynucleotide adenylyltransferase family protein,stroma; mitochondria
+AT1G22660.2,"Polynucleotide adenylyltransferase family protein; FUNCTIONS IN: tRNA adenylyltransferase activity, RNA binding, nucleotidyltransferase activity; INVOLVED IN: tRNA processing, RNA processing; LOCATED IN: mitochondrion; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Poly A polymerase, head domain (InterPro:IPR002646); BEST Arabidopsis thaliana protein match is: Polynucleotide adenylyltransferase family protein (TAIR:AT2G17580.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",stroma; mitochondria
+AT1G22940.1,"thiamin biosynthesis protein, putative",plastid; mitochondria
+AT1G23100.1,"GroES-like family protein; FUNCTIONS IN: ATP binding; INVOLVED IN: protein folding; LOCATED IN: mitochondrion; EXPRESSED IN: 19 plant structures; EXPRESSED DURING: 11 growth stages; CONTAINS InterPro DOMAIN/s: Chaperonin Cpn10 (InterPro:IPR020818), GroES-like (InterPro:IPR011032), Chaperonin Cpn10, conserved site (InterPro:IPR018369), Chaperonin Cpn10, subgroup (InterPro:IPR001476); BEST Arabidopsis thaliana protein match is: chaperonin 10 (TAIR:AT1G14980.1); Has 8300 Blast hits to 8204 proteins in 2528 species: Archae - 1; Bacteria - 5400; Metazoa - 324; Fungi - 119; Plants - 327; Viruses - 2; Other Eukaryotes - 2127 (source: NCBI BLink).",mitochondria
+AT1G24180.1,Thiamin diphosphate-binding fold (THDP-binding) superfamily protein,mitochondria
+AT1G25380.1,NAD+ transporter 2,mitochondria
+AT1G28090.1,"Polynucleotide adenylyltransferase family protein; FUNCTIONS IN: RNA binding, nucleotidyltransferase activity; INVOLVED IN: RNA processing; LOCATED IN: cellular_component unknown; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Poly A polymerase, head domain (InterPro:IPR002646); BEST Arabidopsis thaliana protein match is: Polynucleotide adenylyltransferase family protein (TAIR:AT5G23690.1); Has 9340 Blast hits to 9332 proteins in 2600 species: Archae - 2; Bacteria - 6572; Metazoa - 129; Fungi - 227; Plants - 128; Viruses - 8; Other Eukaryotes - 2274 (source: NCBI BLink).",mitochondria
+AT1G28090.2,"Polynucleotide adenylyltransferase family protein; FUNCTIONS IN: RNA binding, nucleotidyltransferase activity; INVOLVED IN: RNA processing; LOCATED IN: cellular_component unknown; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Poly A polymerase, head domain (InterPro:IPR002646); BEST Arabidopsis thaliana protein match is: Polynucleotide adenylyltransferase family protein (TAIR:AT5G23690.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",mitochondria
+AT1G28090.3,"Polynucleotide adenylyltransferase family protein; FUNCTIONS IN: RNA binding, nucleotidyltransferase activity; INVOLVED IN: RNA processing; LOCATED IN: cellular_component unknown; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Poly A polymerase, head domain (InterPro:IPR002646); BEST Arabidopsis thaliana protein match is: Polynucleotide adenylyltransferase family protein (TAIR:AT5G23690.1); Has 9376 Blast hits to 9368 proteins in 2610 species: Archae - 2; Bacteria - 6608; Metazoa - 130; Fungi - 222; Plants - 128; Viruses - 8; Other Eukaryotes - 2278 (source: NCBI BLink).",mitochondria
+AT1G28960.1,"nudix hydrolase homolog 15 (NUDX15); CONTAINS InterPro DOMAIN/s: NUDIX hydrolase domain-like (InterPro:IPR015797), NUDIX hydrolase domain (InterPro:IPR000086), NUDIX hydrolase, AtNUDT22 (InterPro:IPR017397); BEST Arabidopsis thaliana protein match is: nudix hydrolase homolog 22 (TAIR:AT2G33980.1); Has 3635 Blast hits to 3634 proteins in 1300 species: Archae - 59; Bacteria - 2277; Metazoa - 167; Fungi - 181; Plants - 103; Viruses - 0; Other Eukaryotes - 848 (source: NCBI BLink).",mitochondria
+AT1G28960.2,"nudix hydrolase homolog 15 (NUDX15); CONTAINS InterPro DOMAIN/s: NUDIX hydrolase domain-like (InterPro:IPR015797), NUDIX hydrolase, AtNUDT22 (InterPro:IPR017397), NUDIX hydrolase domain (InterPro:IPR000086); BEST Arabidopsis thaliana protein match is: nudix hydrolase homolog 22 (TAIR:AT2G33980.1); Has 3643 Blast hits to 3642 proteins in 1302 species: Archae - 59; Bacteria - 2285; Metazoa - 167; Fungi - 181; Plants - 103; Viruses - 0; Other Eukaryotes - 848 (source: NCBI BLink).",mitochondria
+AT1G28960.3,"nudix hydrolase homolog 15 (NUDX15); CONTAINS InterPro DOMAIN/s: NUDIX hydrolase domain-like (InterPro:IPR015797), NUDIX hydrolase domain (InterPro:IPR000086), NUDIX hydrolase, AtNUDT22 (InterPro:IPR017397); BEST Arabidopsis thaliana protein match is: nudix hydrolase homolog 22 (TAIR:AT2G33980.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",mitochondria
+AT1G28960.4,nudix hydrolase homolog 15,mitochondria
+AT1G28960.5,nudix hydrolase homolog 15,mitochondria
+AT1G29880.1,glycyl-tRNA synthetase / glycine--tRNA ligase,mitochondria
+AT1G30580.1,GTP binding,plastid; mitochondria
+AT1G30680.1,toprim domain-containing protein,plastid; mitochondria
+AT1G30960.1,GTP-binding family protein,mitochondria
+AT1G32470.1,Single hybrid motif superfamily protein,mitochondria
+AT1G47260.1,gamma carbonic anhydrase 2,mitochondria
+AT1G47420.1,succinate dehydrogenase 5,mitochondria
+AT1G47720.1,Primosome PriB/single-strand DNA-binding,mitochondria
+AT1G48030.1,Encodes a mitochondrial lipoamide dehydrogenase whose expression is induced by light.,mitochondria
+AT1G48030.2,mitochondrial lipoamide dehydrogenase 1,mitochondria
+AT1G48520.1,GLU-ADT subunit B,plastid stroma; mitochondria
+AT1G48520.2,Encodes Glu-tRNA(Gln) amidotransferase subunit B (from Genbank record AF239836).,plastid stroma; mitochondria
+AT1G48520.3,Encodes Glu-tRNA(Gln) amidotransferase subunit B (from Genbank record AF239836).,plastid stroma; mitochondria
+AT1G49530.1,encodes a mitochondria-targeted geranylgeranyl pyrophosphate synthase,mitochondria
+AT1G49630.1,"Zinc metalloprotease pitrilysin subfamily A. Signal peptide degrading enzyme targeted to mitochondria and chloroplasts. Expressed in flower, leaf and root. Not expressed in silique and shoot.",plastid stroma; mitochondria
+AT1G49630.2,"Zinc metalloprotease pitrilysin subfamily A. Signal peptide degrading enzyme targeted to mitochondria and chloroplasts. Expressed in flower, leaf and root. Not expressed in silique and shoot.",plastid stroma; mitochondria
+AT1G49630.3,presequence protease 2,plastid stroma; mitochondria
+AT1G49880.1,Erv1/Alr family protein,mitochondria
+AT1G50200.1,Alanyl-tRNA synthetase,plastid stroma; mitochondria
+AT1G50200.2,Alanyl-tRNA synthetase,plastid stroma; mitochondria
+AT1G50940.1,electron transfer flavoprotein alpha,mitochondria
+AT1G51150.1,Encodes a putative DegP protease.,mitochondria
+AT1G51390.1,"Encodes a protein containing the NFU domain that may be involved in iron-sulfur cluster assembly. Part of a five member gene family, more closely related to NFU4 than to NFU1,2, and 3. Targeted to the mitochondrion.",mitochondria
+AT1G51650.1,"ATP synthase epsilon chain, mitochondrial; FUNCTIONS IN: hydrogen ion transporting ATP synthase activity, rotational mechanism, proton-transporting ATPase activity, rotational mechanism; INVOLVED IN: ATP biosynthetic process, ATP synthesis coupled proton transport; LOCATED IN: mitochondrion; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: ATPase, F1 complex, epsilon subunit, mitochondrial (InterPro:IPR006721); Has 247 Blast hits to 247 proteins in 93 species: Archae - 0; Bacteria - 0; Metazoa - 143; Fungi - 12; Plants - 69; Viruses - 0; Other Eukaryotes - 23 (source: NCBI BLink).",mitochondria
+AT1G51980.1,Insulinase (Peptidase family M16) protein,mitochondria
+AT1G51980.2,Insulinase (Peptidase family M16) protein,mitochondria
+AT1G52160.1,Encodes a tRNase Z.,nucleus; mitochondria
+AT1G52560.1,HSP20-like chaperones superfamily protein,mitochondria
+AT1G52560.2,"HSP20-like chaperones superfamily protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: response to high light intensity, response to hydrogen peroxide, response to heat; LOCATED IN: mitochondrion; EXPRESSED IN: 6 plant structures; EXPRESSED DURING: 4 anthesis, petal differentiation and expansion stage; CONTAINS InterPro DOMAIN/s: Heat shock protein Hsp20 (InterPro:IPR002068), HSP20-like chaperone (InterPro:IPR008978); BEST Arabidopsis thaliana protein match is: heat shock protein 21 (TAIR:AT4G27670.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).",mitochondria
+AT1G52620.1,Pentatricopeptide repeat (PPR) superfamily protein,mitochondria
+AT1G53030.1,"encodes a copper chaperone, can functional complements the yeast COX17 null mutant. May play a role in the delivery of copper to mitochondria. Expressed in roots and thus may also play a role in copper transport in the roots.",mitochondria
+AT1G53240.1,Lactate/malate dehydrogenase family protein,mitochondria
+AT1G55040.1,zinc finger (Ran-binding) family protein,plastid; mitochondria
+AT1G55890.1,Tetratricopeptide repeat (TPR)-like superfamily protein,mitochondria
+AT1G58180.1,"beta carbonic anhydrase 6 (BCA6); FUNCTIONS IN: carbonate dehydratase activity, zinc ion binding; INVOLVED IN: carbon utilization; LOCATED IN: mitochondrion; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Carbonic anhydrase, prokaryotic-like, conserved site (InterPro:IPR015892), Carbonic anhydrase (InterPro:IPR001765); BEST Arabidopsis thaliana protein match is: beta carbonic anhydrase 5 (TAIR:AT4G33580.1); Has 5006 Blast hits to 4991 proteins in 1499 species: Archae - 55; Bacteria - 3848; Metazoa - 56; Fungi - 209; Plants - 346; Viruses - 0; Other Eukaryotes - 492 (source: NCBI BLink).",mitochondria
+AT1G58180.2,"beta carbonic anhydrase 6 (BCA6); FUNCTIONS IN: carbonate dehydratase activity, zinc ion binding; INVOLVED IN: carbon utilization; LOCATED IN: mitochondrion; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Carbonic anhydrase, prokaryotic-like, conserved site (InterPro:IPR015892), Carbonic anhydrase (InterPro:IPR001765); BEST Arabidopsis thaliana protein match is: beta carbonic anhydrase 5 (TAIR:AT4G33580.1); Has 5080 Blast hits to 5063 proteins in 1507 species: Archae - 55; Bacteria - 3884; Metazoa - 56; Fungi - 211; Plants - 357; Viruses - 0; Other Eukaryotes - 517 (source: NCBI BLink).",mitochondria
+AT1G58180.3,"beta carbonic anhydrase 6 (BCA6); FUNCTIONS IN: carbonate dehydratase activity, zinc ion binding; INVOLVED IN: carbon utilization; LOCATED IN: mitochondrion; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Carbonic anhydrase, prokaryotic-like, conserved site (InterPro:IPR015892), Carbonic anhydrase (InterPro:IPR001765); BEST Arabidopsis thaliana protein match is: beta carbonic anhydrase 5 (TAIR:AT4G33580.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",mitochondria
+AT1G59900.1,pyruvate dehydrogenase complex E1 alpha subunit,mitochondria
+AT1G61570.1,translocase of the inner mitochondrial membrane 13,mitochondria
+AT1G61960.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT1G61970.1,Mitochondrial transcription termination factor family protein; CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT1G61980.1); Has 867 Blast hits to 807 proteins in 27 species: Archae - 0; Bacteria - 0; Metazoa - 4; Fungi - 0; Plants - 855; Viruses - 0; Other Eukaryotes - 8 (source: NCBI BLink).,mitochondria
+AT1G61970.2,Mitochondrial transcription termination factor family protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT1G61980.1).,mitochondria
+AT1G61980.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT1G61990.1,Mitochondrial transcription termination factor family protein; CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT1G61960.1); Has 813 Blast hits to 783 proteins in 30 species: Archae - 0; Bacteria - 0; Metazoa - 3; Fungi - 0; Plants - 807; Viruses - 0; Other Eukaryotes - 3 (source: NCBI BLink).,mitochondria
+AT1G62010.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT1G62110.1,Mitochondrial transcription termination factor family protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion; CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT1G62085.1); Has 1071 Blast hits to 876 proteins in 49 species: Archae - 0; Bacteria - 0; Metazoa - 66; Fungi - 0; Plants - 988; Viruses - 0; Other Eukaryotes - 17 (source: NCBI BLink).,mitochondria
+AT1G62120.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT1G62150.1,Mitochondrial transcription termination factor family protein; CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT1G62085.1); Has 880 Blast hits to 773 proteins in 30 species: Archae - 0; Bacteria - 0; Metazoa - 6; Fungi - 0; Plants - 866; Viruses - 0; Other Eukaryotes - 8 (source: NCBI BLink).,mitochondria
+AT1G62260.1,mitochondrial editing factor 9,mitochondria
+AT1G63940.1,"monodehydroascorbate reductase 6 (MDAR6); FUNCTIONS IN: ATP binding; INVOLVED IN: response to cadmium ion, response to cold; LOCATED IN: mitochondrion, stromule, chloroplast stroma, chloroplast; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: FAD-dependent pyridine nucleotide-disulphide oxidoreductase (InterPro:IPR013027), Pyridine nucleotide-disulphide oxidoreductase, NAD-binding region (InterPro:IPR001327); BEST Arabidopsis thaliana protein match is: monodehydroascorbate reductase 1 (TAIR:AT3G52880.1); Has 32682 Blast hits to 32615 proteins in 3080 species: Archae - 745; Bacteria - 25586; Metazoa - 997; Fungi - 665; Plants - 640; Viruses - 0; Other Eukaryotes - 4049 (source: NCBI BLink).",plastid stroma; mitochondria
+AT1G63940.2,monodehydroascorbate reductase 6,plastid stroma; mitochondria
+AT1G63940.3,"monodehydroascorbate reductase 6 (MDAR6); FUNCTIONS IN: ATP binding; INVOLVED IN: response to cadmium ion, response to cold; LOCATED IN: mitochondrion, stromule, chloroplast; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: FAD-dependent pyridine nucleotide-disulphide oxidoreductase (InterPro:IPR013027), Pyridine nucleotide-disulphide oxidoreductase, NAD-binding region (InterPro:IPR001327); BEST Arabidopsis thaliana protein match is: monodehydroascorbate reductase 1 (TAIR:AT3G52880.1); Has 32449 Blast hits to 32388 proteins in 3070 species: Archae - 747; Bacteria - 25377; Metazoa - 989; Fungi - 665; Plants - 634; Viruses - 0; Other Eukaryotes - 4037 (source: NCBI BLink).",plastid stroma; mitochondria
+AT1G63940.4,"monodehydroascorbate reductase 6 (MDAR6); FUNCTIONS IN: ATP binding; INVOLVED IN: response to cadmium ion, response to cold; LOCATED IN: mitochondrion, stromule, chloroplast; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: FAD-dependent pyridine nucleotide-disulphide oxidoreductase (InterPro:IPR013027), Pyridine nucleotide-disulphide oxidoreductase, NAD-binding region (InterPro:IPR001327); BEST Arabidopsis thaliana protein match is: monodehydroascorbate reductase 1 (TAIR:AT3G52880.1); Has 32339 Blast hits to 32274 proteins in 3053 species: Archae - 745; Bacteria - 25255; Metazoa - 989; Fungi - 665; Plants - 640; Viruses - 0; Other Eukaryotes - 4045 (source: NCBI BLink).",plastid stroma; mitochondria
+AT1G65630.1,Encodes a putative DegP protease.,plastid; mitochondria
+AT1G66590.1,cytochrome c oxidase 19-1 (COX19-1); CONTAINS InterPro DOMAIN/s: CHCH (InterPro:IPR010625); BEST Arabidopsis thaliana protein match is: cytochrome c oxidase 19-2 (TAIR:AT1G69750.1); Has 290 Blast hits to 290 proteins in 159 species: Archae - 0; Bacteria - 0; Metazoa - 77; Fungi - 106; Plants - 52; Viruses - 0; Other Eukaryotes - 55 (source: NCBI BLink).,mitochondria
+AT1G66590.2,cytochrome c oxidase 19-1 (COX19-1); CONTAINS InterPro DOMAIN/s: CHCH (InterPro:IPR010625); BEST Arabidopsis thaliana protein match is: cytochrome c oxidase 19-2 (TAIR:AT1G69750.1); Has 290 Blast hits to 290 proteins in 159 species: Archae - 0; Bacteria - 0; Metazoa - 77; Fungi - 106; Plants - 52; Viruses - 0; Other Eukaryotes - 55 (source: NCBI BLink).,mitochondria
+AT1G68990.1,male gametophyte defective 3,mitochondria
+AT1G69750.1,cytochrome c oxidase 19-2,mitochondria
+AT1G71260.1,WHIRLY 2,mitochondria
+AT1G72330.1,alanine aminotransferase 2,mitochondria
+AT1G72330.2,alanine aminotransferase 2,mitochondria
+AT1G72330.3,alanine aminotransferase 2,mitochondria
+AT1G72750.1,"translocase inner membrane subunit 23-2 (TIM23-2); FUNCTIONS IN: protein transporter activity, P-P-bond-hydrolysis-driven protein transmembrane transporter activity; INVOLVED IN: intracellular protein transport, protein transport; LOCATED IN: mitochondrion, mitochondrial inner membrane, mitochondrial inner membrane presequence translocase complex, membrane; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Mitochondrial inner membrane translocase complex, subunit Tim23 (InterPro:IPR005681), Mitochondrial inner membrane translocase complex, subunit Tim17/22 (InterPro:IPR003397); BEST Arabidopsis thaliana protein match is: translocase of inner mitochondrial membrane 23 (TAIR:AT1G17530.1); Has 613 Blast hits to 613 proteins in 178 species: Archae - 0; Bacteria - 0; Metazoa - 286; Fungi - 136; Plants - 143; Viruses - 0; Other Eukaryotes - 48 (source: NCBI BLink).",mitochondria
+AT1G74120.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT1G74230.1,encodes a glycine-rich RNA binding protein.,mitochondria
+AT1G74260.1,purine biosynthesis 4,plastid stroma; mitochondria
+AT1G74600.1,pentatricopeptide (PPR) repeat-containing protein,mitochondria
+AT1G78510.1,solanesyl diphosphate synthase 1,stroma; mitochondria
+AT1G78510.2,Encodes a protein with solanesyl diphosphate synthase activity.,stroma; mitochondria
+AT1G79220.1,Mitochondrial transcription termination factor family protein; CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT5G64950.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,mitochondria
+AT1G79230.1,mercaptopyruvate sulfurtransferase 1,mitochondria
+AT1G79230.2,"encodes a sulfurtransferase/rhodaneses, which belongs to a group of enzymes widely distributed in all three phyla that catalyze the transfer of sulfur from a donor to a thiophilic acceptor substrate. The protein and transcript levels are NOT affected by senescence or exogenous cyanide, suggesting that sulfurtransferases are involved in cyanide detoxification.",mitochondria
+AT1G79230.3,"encodes a sulfurtransferase/rhodaneses, which belongs to a group of enzymes widely distributed in all three phyla that catalyze the transfer of sulfur from a donor to a thiophilic acceptor substrate. The protein and transcript levels are NOT affected by senescence or exogenous cyanide, suggesting that sulfurtransferases are involved in cyanide detoxification.",mitochondria
+AT1G79440.1,aldehyde dehydrogenase 5F1,mitochondria
+AT1G79900.1,Mitochondrial substrate carrier family protein,mitochondria
+AT1G80230.1,Rubredoxin-like superfamily protein,mitochondria
+AT2G02050.1,"NADH-ubiquinone oxidoreductase B18 subunit, putative",mitochondria
+AT2G03690.1,coenzyme Q biosynthesis Coq4 family protein / ubiquinone biosynthesis Coq4 family protein,mitochondria
+AT2G03880.1,Pentatricopeptide repeat (PPR) superfamily protein,mitochondria
+AT2G04842.1,"threonyl-tRNA synthetase, putative / threonine--tRNA ligase, putative",plastid stroma; mitochondria
+AT2G05710.1,aconitase 3,mitochondria; cytosol
+AT2G07698.1,"ATPase, F1 complex, alpha subunit protein; FUNCTIONS IN: hydrogen ion transporting ATP synthase activity, rotational mechanism, poly(U) RNA binding, zinc ion binding; INVOLVED IN: proton transport, ATP metabolic process, ATP synthesis coupled proton transport; LOCATED IN: in 7 components; EXPRESSED IN: male gametophyte, juvenile leaf, cultured cell, leaf; EXPRESSED DURING: seedling growth, seed development stages; CONTAINS InterPro DOMAIN/s: ATPase, F1 complex, alpha subunit (InterPro:IPR005294), ATPase, F1/V1/A1 complex, alpha/beta subunit, C-terminal (InterPro:IPR000793), ATPase, alpha/beta subunit, nucleotide-binding domain, active site (InterPro:IPR020003), ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal (InterPro:IPR004100), ATPase, F1/A1 complex, alpha/beta subunit, N-terminal (InterPro:IPR018118), ATPase, alpha/beta subunit, nucleotide-binding domain (InterPro:IPR000194); BEST Arabidopsis thaliana protein match is: ATP synthase subunit 1 (TAIR:ATMG01190.1); Has 42544 Blast hits to 42509 proteins in 10112 species: Archae - 769; Bacteria - 22602; Metazoa - 1520; Fungi - 703; Plants - 8267; Viruses - 0; Other Eukaryotes - 8683 (source: NCBI BLink).",mitochondria
+AT2G07707.1,"Plant mitochondrial ATPase, F0 complex, subunit 8 protein; FUNCTIONS IN: cobalt ion binding; INVOLVED IN: ATP synthesis coupled proton transport; LOCATED IN: mitochondrion, vacuole, membrane; EXPRESSED IN: cultured cell, leaf; CONTAINS InterPro DOMAIN/s: ATPase, F0 complex, subunit 8, mitochondrial, plant (InterPro:IPR003319), Protein of unknown function DUF1082, plant mitochondria (InterPro:IPR009455); BEST Arabidopsis thaliana protein match is: Plant mitochondrial ATPase, F0 complex, subunit 8 protein (TAIR:ATMG00480.1); Has 226 Blast hits to 226 proteins in 79 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 218; Viruses - 0; Other Eukaryotes - 8 (source: NCBI BLink).",mitochondria
+AT2G13560.1,NAD-dependent malic enzyme 1,mitochondria
+AT2G13600.1,Pentatricopeptide repeat (PPR) superfamily protein,mitochondria
+AT2G15680.1,Calcium-binding EF-hand family protein,mitochondria
+AT2G17420.1,NADPH-dependent thioredoxin reductase A,mitochondria; cytosol
+AT2G19490.1,recA DNA recombination family protein,stroma; mitochondria
+AT2G19680.1,"Mitochondrial ATP synthase subunit G protein; FUNCTIONS IN: hydrogen ion transmembrane transporter activity; INVOLVED IN: proton transport, ATP synthesis coupled proton transport; LOCATED IN: mitochondrial proton-transporting ATP synthase complex, coupling factor F(o); EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: ATPase, F0 complex, subunit G, mitochondrial (InterPro:IPR006808); BEST Arabidopsis thaliana protein match is: Mitochondrial ATP synthase subunit G protein (TAIR:AT4G29480.1); Has 96 Blast hits to 96 proteins in 21 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 93; Viruses - 0; Other Eukaryotes - 3 (source: NCBI BLink).",mitochondria
+AT2G19680.2,Mitochondrial ATP synthase subunit G protein,mitochondria
+AT2G19860.1,hexokinase 2,mitochondria
+AT2G19860.2,hexokinase 2,mitochondria
+AT2G20360.1,NAD(P)-binding Rossmann-fold superfamily protein,mitochondria
+AT2G20420.1,ATP citrate lyase (ACL) family protein,mitochondria
+AT2G20530.1,"prohibitin 6 (PHB6); INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, plasma membrane, mitochondrial respiratory chain complex I, respiratory chain complex I, membrane; EXPRESSED IN: 11 plant structures; EXPRESSED DURING: M germinated pollen stage; CONTAINS InterPro DOMAIN/s: Prohibitin (InterPro:IPR000163), Band 7 protein (InterPro:IPR001107); BEST Arabidopsis thaliana protein match is: prohibitin 1 (TAIR:AT4G28510.1); Has 3312 Blast hits to 3310 proteins in 1013 species: Archae - 176; Bacteria - 1509; Metazoa - 442; Fungi - 292; Plants - 251; Viruses - 11; Other Eukaryotes - 631 (source: NCBI BLink).",mitochondria
+AT2G20530.2,"prohibitin 6 (PHB6); INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, plasma membrane, mitochondrial respiratory chain complex I, respiratory chain complex I, membrane; EXPRESSED IN: 11 plant structures; EXPRESSED DURING: M germinated pollen stage; CONTAINS InterPro DOMAIN/s: Prohibitin (InterPro:IPR000163), Band 7 protein (InterPro:IPR001107); BEST Arabidopsis thaliana protein match is: prohibitin 1 (TAIR:AT4G28510.1); Has 3312 Blast hits to 3310 proteins in 1013 species: Archae - 176; Bacteria - 1509; Metazoa - 442; Fungi - 292; Plants - 251; Viruses - 11; Other Eukaryotes - 631 (source: NCBI BLink).",mitochondria
+AT2G20540.1,mitochondrial editing factor 21,mitochondria
+AT2G20800.1,"NAD(P)H dehydrogenase B4 (NDB4); FUNCTIONS IN: NADH dehydrogenase activity; INVOLVED IN: oxidation reduction; LOCATED IN: extrinsic to mitochondrial inner membrane, mitochondrion, plastid; EXPRESSED IN: 7 plant structures; CONTAINS InterPro DOMAIN/s: Pyridine nucleotide-disulphide oxidoreductase, class-II (InterPro:IPR000103), FAD-dependent pyridine nucleotide-disulphide oxidoreductase (InterPro:IPR013027), Pyridine nucleotide-disulphide oxidoreductase, NAD-binding region (InterPro:IPR001327), EF-HAND 2 (InterPro:IPR018249); BEST Arabidopsis thaliana protein match is: NAD(P)H dehydrogenase B3 (TAIR:AT4G21490.1); Has 11460 Blast hits to 10815 proteins in 2238 species: Archae - 334; Bacteria - 8988; Metazoa - 48; Fungi - 603; Plants - 426; Viruses - 0; Other Eukaryotes - 1061 (source: NCBI BLink).",mitochondria
+AT2G20860.1,lipoic acid synthase 1,mitochondria
+AT2G21385.1,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast, chloroplast envelope; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; Has 49 Blast hits to 49 proteins",plastid stroma; mitochondria
+AT2G21385.2,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; Has 49 Blast hits to 49 proteins in 20 species: Archae,plastid stroma; mitochondria
+AT2G21385.3,unknown protein.,plastid stroma; mitochondria
+AT2G21385.4,unknown protein.,plastid stroma; mitochondria
+AT2G21870.1,copper ion binding;cobalt ion binding;zinc ion binding,mitochondria
+AT2G21870.2,copper ion binding;cobalt ion binding;zinc ion binding,mitochondria
+AT2G22500.1,"Encodes one of the mitochondrial dicarboxylate carriers (DIC): DIC1 (AT2G22500), DIC2 (AT4G24570), DIC3 (AT5G09470).",mitochondria
+AT2G22870.1,P-loop containing nucleoside triphosphate hydrolases superfamily protein,plastid; mitochondria
+AT2G25140.1,casein lytic proteinase B4,mitochondria
+AT2G25840.1,"ovule abortion 4 (OVA4); FUNCTIONS IN: nucleotide binding, aminoacyl-tRNA ligase activity, tryptophan-tRNA ligase activity, ATP binding; INVOLVED IN: N-terminal protein myristoylation, tRNA aminoacylation for protein translation, ovule development; LOCATED IN: mitochondrion, chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Aminoacyl-tRNA synthetase, class I, conserved site (InterPro:IPR001412), Rossmann-like alpha/beta/alpha sandwich fold (InterPro:IPR014729), Tryptophanyl-tRNA synthetase, class Ib (InterPro:IPR002306), Aminoacyl-tRNA synthetase, class Ib (InterPro:IPR002305); Has 9074 Blast hits to 9053 proteins in 2715 species: Archae - 101; Bacteria - 5434; Metazoa - 147; Fungi - 137; Plants - 44; Viruses - 0; Other Eukaryotes - 3211 (source: NCBI BLink).",plastid stroma; mitochondria
+AT2G25840.2,Nucleotidylyl transferase superfamily protein,plastid stroma; mitochondria
+AT2G25840.3,"ovule abortion 4 (OVA4); FUNCTIONS IN: aminoacyl-tRNA ligase activity, tryptophan-tRNA ligase activity, nucleotide binding, ATP binding; INVOLVED IN: tRNA aminoacylation for protein translation, ovule development; LOCATED IN: mitochondrion, chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Aminoacyl-tRNA synthetase, class I, conserved site (InterPro:IPR001412), Rossmann-like alpha/beta/alpha sandwich fold (InterPro:IPR014729), Tryptophanyl-tRNA synthetase, class Ib (InterPro:IPR002306), Aminoacyl-tRNA synthetase, class Ib (InterPro:IPR002305); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",plastid stroma; mitochondria
+AT2G26080.1,"glycine decarboxylase P-protein 2 (GLDP2); FUNCTIONS IN: glycine dehydrogenase (decarboxylating) activity, ATP binding; INVOLVED IN: oxidation reduction, glycine decarboxylation via glycine cleavage system, glycine metabolic process; LOCATED IN: mitochondrion, glycine cleavage complex, chloroplast, chloroplast envelope; EXPRESSED IN: 33 plant structures; EXPRESSED DURING: 16 growth stages; CONTAINS InterPro DOMAIN/s: Pyridoxal phosphate-dependent transferase, major domain (InterPro:IPR015424), Glycine cleavage system P-protein-like (InterPro:IPR020581), Glycine cleavage system P-protein (InterPro:IPR003437), Pyridoxal phosphate-dependent transferase, major region, subdomain 1 (InterPro:IPR015421), Glycine cleavage system P-protein, N-terminal (InterPro:IPR020580); BEST Arabidopsis thaliana protein match is: glycine decarboxylase P-protein 1 (TAIR:AT4G33010.1); Has 12461 Blast hits to 11458 proteins in 1938 species: Archae - 256; Bacteria - 5279; Metazoa - 139; Fungi - 214; Plants - 99; Viruses - 0; Other Eukaryotes - 6474 (source: NCBI BLink).",mitochondria
+AT2G26140.1,FTSH protease 4,mitochondria
+AT2G27730.1,copper ion binding,mitochondria
+AT2G29080.1,FTSH protease 3,mitochondria
+AT2G29530.1,Encodes a small zinc finger-like protein that is a component of the mitochondrial protein import apparatus.,mitochondria
+AT2G29530.2,Tim10/DDP family zinc finger protein,mitochondria
+AT2G29530.3,Encodes a small zinc finger-like protein that is a component of the mitochondrial protein import apparatus.,mitochondria
+AT2G29990.1,"alternative NAD(P)H dehydrogenase 2 (NDA2); FUNCTIONS IN: NADH dehydrogenase activity, oxidoreductase activity, FAD binding; INVOLVED IN: oxidation reduction; LOCATED IN: intrinsic to mitochondrial inner membrane; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: FAD-dependent pyridine nucleotide-disulphide oxidoreductase (InterPro:IPR013027), Pyridine nucleotide-disulphide oxidoreductase, NAD-binding region (InterPro:IPR001327); BEST Arabidopsis thaliana protein match is: alternative NAD(P)H dehydrogenase 1 (TAIR:AT1G07180.1); Has 11797 Blast hits to 11597 proteins in 2273 species: Archae - 301; Bacteria - 9312; Metazoa - 49; Fungi - 695; Plants - 411; Viruses - 0; Other Eukaryotes - 1029 (source: NCBI BLink).",peroxisome; mitochondria
+AT2G30920.1,coenzyme Q 3,mitochondria
+AT2G30970.1,ASPARTATE AMINOTRANSFERASE 1,mitochondria
+AT2G30970.2,aspartate aminotransferase 1,mitochondria
+AT2G31170.1,"Cysteinyl-tRNA synthetase, class Ia family protein",plastid stroma; mitochondria
+AT2G31170.2,"Cysteinyl-tRNA synthetase, class Ia family protein",plastid stroma; mitochondria
+AT2G31490.1,unknown protein; Has 55 Blast hits to 55 proteins in 15 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 55; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).,mitochondria
+AT2G31500.1,member of Calcium Dependent Protein Kinase,mitochondria
+AT2G32230.1,proteinaceous RNase P 1,plastid nucleoid; mitochondria
+AT2G32390.1,"Encodes a ionotropic glutamate receptor ortholog, a member of a putative ligand-gated ion channel subunit family",mitochondria
+AT2G32390.2,"Encodes a ionotropic glutamate receptor ortholog, a member of a putative ligand-gated ion channel subunit family",mitochondria
+AT2G32390.3,glutamate receptor 3.5,mitochondria
+AT2G33040.1,gamma subunit of Mt ATP synthase,mitochondria
+AT2G33210.1,heat shock protein 60-2,mitochondria
+AT2G33210.2,"heat shock protein 60-2 (HSP60-2); CONTAINS InterPro DOMAIN/s: Chaperonin Cpn60/TCP-1 (InterPro:IPR002423), Chaperonin Cpn60, conserved site (InterPro:IPR018370), Chaperonin Cpn60 (InterPro:IPR001844); BEST Arabidopsis thaliana protein match is: heat shock protein 60 (TAIR:AT3G23990.1).",mitochondria
+AT2G33220.1,GRIM-19 protein,mitochondria
+AT2G33820.1,Mitochondrial substrate carrier family protein,mitochondria
+AT2G34630.1,Encodes a geranyl diphosphate synthase. RNAi lines are dwarf. T-DNA knock-out lines are embryo lethal.,mitochondria
+AT2G34630.2,geranyl diphosphate synthase 1,mitochondria
+AT2G35370.1,Encodes glycine decarboxylase complex H protein. Involved in photorespiration.,mitochondria
+AT2G37410.1,"Mitochondrial inner membrane translocase. Together with AtTIM17-1, TIM17-2 has a long C-terminal extension not present in other TIMs. The extension is located in the outer membrane and so TIM17-2 links the inner and outer mitochondrial membranes. The C-terminal region is essential for protein import into mitochondria via the general import pathway but is not necessary for import via the carrier pathway.",mitochondria
+AT2G37410.2,translocase inner membrane subunit 17-2,mitochondria
+AT2G39290.1,phosphatidylglycerolphosphate synthase 1,plastid; mitochondria
+AT2G40300.1,ferritin 4,plastid; mitochondria
+AT2G40765.1,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, mitochondrial respiratory chain complex III; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; Has 32 Blast hits to 32 proteins in 11 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 32; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).",mitochondria
+AT2G42210.1,"Homologous to pea OEP16 and barley pPORA (OEP16), a member of Arabidopsis OEP16 family.",mitochondria
+AT2G42210.2,Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein,mitochondria
+AT2G42210.3,"Homologous to pea OEP16 and barley pPORA (OEP16), a member of Arabidopsis OEP16 family.",mitochondria
+AT2G42210.4,"Homologous to pea OEP16 and barley pPORA (OEP16), a member of Arabidopsis OEP16 family.",mitochondria
+AT2G43400.1,electron-transfer flavoprotein:ubiquinone oxidoreductase,mitochondria
+AT2G44020.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT2G44350.1,Citrate synthase family protein,mitochondria
+AT2G44350.2,Citrate synthase family protein,mitochondria
+AT2G44520.1,cytochrome c oxidase 10,mitochondria
+AT2G44610.1,Ras-related small GTP-binding family protein,mitochondria; cytosol
+AT2G45060.1,Uncharacterised conserved protein UCP022280,mitochondria
+AT2G45270.1,glycoprotease 1,mitochondria
+AT2G46110.1,ketopantoate hydroxymethyltransferase 1,mitochondria
+AT2G46505.1,succinate dehydrogenase subunit 4,mitochondria
+AT2G47510.1,"Encodes a mitochondrial-localized protein. The FUM1 gene appears to be essential, suggesting that FUM1 may play a crucial role as a fumarase in the tricarboxylic acid cycle.",mitochondria
+AT2G47510.2,fumarase 1,mitochondria
+AT3G01020.1,"Encodes a mitochondrial protein similar to E.coli IscU. In bacteria, IscU is a scaffold protein accepting sulfur and iron to build a transient Fe-S cluster,which is subsequently transferred to a target apoprotein.",mitochondria
+AT3G01280.1,voltage dependent anion channel 1,mitochondria
+AT3G01800.1,Ribosome recycling factor,mitochondria
+AT3G02090.1,Insulinase (Peptidase family M16) protein,mitochondria
+AT3G02090.2,Insulinase (Peptidase family M16) protein,mitochondria
+AT3G02660.1,"Tyrosyl-tRNA synthetase, class Ib, bacterial/mitochondrial",plastid stroma; mitochondria
+AT3G02780.1,isopentenyl pyrophosphate:dimethylallyl pyrophosphate isomerase 2,mitochondria; cytosol
+AT3G03380.1,DegP protease 7,plastid; nucleus; mitochondria
+AT3G03580.1,Tetratricopeptide repeat (TPR)-like superfamily protein; CONTAINS InterPro DOMAIN/s: Pentatricopeptide repeat (InterPro:IPR002885); BEST Arabidopsis thaliana protein match is: Pentatricopeptide repeat (PPR) superfamily protein (TAIR:AT4G18750.1); Has 54534 Blast hits to 14239 proteins in 270 species: Archae - 2; Bacteria - 13; Metazoa - 57; Fungi - 143; Plants - 53473; Viruses - 0; Other Eukaryotes - 846 (source: NCBI BLink).,mitochondria
+AT3G04800.1,"translocase inner membrane subunit 23-3 (TIM23-3); FUNCTIONS IN: protein transporter activity, P-P-bond-hydrolysis-driven protein transmembrane transporter activity; INVOLVED IN: protein transport; LOCATED IN: mitochondrial inner membrane, mitochondrial inner membrane presequence translocase complex; EXPRESSED IN: cotyledon, embryo, root, flower, leaf; EXPRESSED DURING: E expanded cotyledon stage; CONTAINS InterPro DOMAIN/s: Mitochondrial inner membrane translocase complex, subunit Tim17/22 (InterPro:IPR003397); BEST Arabidopsis thaliana protein match is: translocase of inner mitochondrial membrane 23 (TAIR:AT1G17530.1); Has 382 Blast hits to 381 proteins in 143 species: Archae - 0; Bacteria - 0; Metazoa - 134; Fungi - 102; Plants - 115; Viruses - 0; Other Eukaryotes - 31 (source: NCBI BLink).",mitochondria
+AT3G05240.1,Encodes a pentatricopeptide repeat protein (PPR) protein involved in mitochondrial mRNA editing.,mitochondria
+AT3G05790.1,"Encodes a member of the Lon protease-like proteins (Lon1/At5g26860, Lon2/At5g47040, Lon3/At3g05780, Lon4/At3g05790). Lon is a multifunctional ATP-dependent protease which exists in bacteria, archaea and within organelles in eukaryotic cells. Lon proteases are responsible for the degradation of abnormal, damaged and unstable proteins.",plastid; mitochondria
+AT3G06050.1,peroxiredoxin IIF,mitochondria
+AT3G06483.1,pyruvate dehydrogenase kinase,mitochondria
+AT3G06850.1,dihydrolipoamide branched chain acyltransferase,mitochondria
+AT3G06850.2,2-oxoacid dehydrogenases acyltransferase family protein,mitochondria
+AT3G07480.1,"2Fe-2S ferredoxin-like superfamily protein; FUNCTIONS IN: electron carrier activity, iron-sulfur cluster binding; LOCATED IN: mitochondrion, chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Ferredoxin (InterPro:IPR001041), Beta-grasp fold, ferredoxin-type (InterPro:IPR012675); Has 1263 Blast hits to 1263 proteins in 213 species: Archae - 0; Bacteria - 293; Metazoa - 132; Fungi - 8; Plants - 41; Viruses - 0; Other Eukaryotes - 789 (source: NCBI BLink).",mitochondria
+AT3G07770.1,HEAT SHOCK PROTEIN 89.1,mitochondria
+AT3G08580.1,mitochondrial ADP/ATP carrier,mitochondria
+AT3G08580.2,ADP/ATP carrier 1,mitochondria
+AT3G08950.1,electron transport SCO1/SenC family protein,mitochondria
+AT3G09040.1,Pentatricopeptide repeat (PPR) superfamily protein,mitochondria
+AT3G09810.1,Encodes a catalytic subunit of the mitochondrially-localized NAD+- dependent isocitrate dehydrogenase,mitochondria
+AT3G10140.1,RECA homolog 3,mitochondria
+AT3G10160.1,DHFS-FPGS homolog C,mitochondria
+AT3G10270.1,DNA GYRASE B1,plastid nucleoid; mitochondria
+AT3G10690.1,DNA GYRASE A,plastid; mitochondria
+AT3G10920.1,manganese superoxide dismutase 1,mitochondria
+AT3G10920.2,manganese superoxide dismutase (MSD1),mitochondria
+AT3G11460.1,Pentatricopeptide repeat (PPR) superfamily protein; CONTAINS InterPro DOMAIN/s: Pentatricopeptide repeat (InterPro:IPR002885); BEST Arabidopsis thaliana protein match is: Pentatricopeptide repeat (PPR) superfamily protein (TAIR:AT4G30700.1); Has 38316 Blast hits to 13864 proteins in 256 species: Archae - 0; Bacteria - 8; Metazoa - 61; Fungi - 80; Plants - 37599; Viruses - 0; Other Eukaryotes - 568 (source: NCBI BLink).,mitochondria
+AT3G12260.1,LYR family of Fe/S cluster biogenesis protein,mitochondria
+AT3G12770.1,mitochondrial editing factor 22,mitochondria
+AT3G13110.1,serine acetyltransferase 2;2,mitochondria
+AT3G13490.1,"Lysyl-tRNA synthetase, class II",plastid stroma; mitochondria
+AT3G13860.1,heat shock protein 60-3A,mitochondria
+AT3G13930.1,"Dihydrolipoamide acetyltransferase, long form protein",mitochondria
+AT3G15000.1,cobalt ion binding,plastid; mitochondria
+AT3G15020.1,"Lactate/malate dehydrogenase family protein; FUNCTIONS IN: malate dehydrogenase activity, copper ion binding; INVOLVED IN: defense response to bacterium; LOCATED IN: mitochondrion, apoplast, membrane; EXPRESSED IN: 26 plant structures; EXPRESSED DURING: 16 growth stages; CONTAINS InterPro DOMAIN/s: Lactate/malate dehydrogenase, N-terminal (InterPro:IPR001236), Lactate/malate dehydrogenase, C-terminal (InterPro:IPR022383), NAD(P)-binding domain (InterPro:IPR016040), Malate dehydrogenase, NAD-dependent, eukaryote/gamma proteobacteria (InterPro:IPR010097), L-lactate/malate dehydrogenase (InterPro:IPR001557), Malate dehydrogenase, active site (InterPro:IPR001252), Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal (InterPro:IPR015955); BEST Arabidopsis thaliana protein match is: Lactate/malate dehydrogenase family protein (TAIR:AT1G53240.1); Has 17183 Blast hits to 17180 proteins in 5309 species: Archae - 237; Bacteria - 12010; Metazoa - 1188; Fungi - 539; Plants - 657; Viruses - 0; Other Eukaryotes - 2552 (source: NCBI BLink).",mitochondria
+AT3G15020.2,"Lactate/malate dehydrogenase family protein; FUNCTIONS IN: malate dehydrogenase activity, copper ion binding; INVOLVED IN: defense response to bacterium; LOCATED IN: mitochondrion, apoplast, membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Lactate/malate dehydrogenase, C-terminal (InterPro:IPR022383), Malate dehydrogenase, NAD-dependent, eukaryote/gamma proteobacteria (InterPro:IPR010097), NAD(P)-binding domain (InterPro:IPR016040), L-lactate/malate dehydrogenase (InterPro:IPR001557), Lactate/malate dehydrogenase, N-terminal (InterPro:IPR001236), Malate dehydrogenase, active site (InterPro:IPR001252), Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal (InterPro:IPR015955); BEST Arabidopsis thaliana protein match is: Lactate/malate dehydrogenase family protein (TAIR:AT1G53240.1); Has 16805 Blast hits to 16803 proteins in 5273 species: Archae - 237; Bacteria - 11900; Metazoa - 1175; Fungi - 513; Plants - 469; Viruses - 0; Other Eukaryotes - 2511 (source: NCBI BLink).",mitochondria
+AT3G15352.1,cytochrome c oxidase 17,mitochondria
+AT3G15640.1,Rubredoxin-like superfamily protein,mitochondria
+AT3G15640.2,"Rubredoxin-like superfamily protein; CONTAINS InterPro DOMAIN/s: Cytochrome c oxidase, subunit Vb (InterPro:IPR002124); BEST Arabidopsis thaliana protein match is: Rubredoxin-like superfamily protein (TAIR:AT1G80230.1); Has 464 Blast hits to 464 proteins in 159 species: Archae - 0; Bacteria - 0; Metazoa - 230; Fungi - 86; Plants - 102; Viruses - 0; Other Eukaryotes - 46 (source: NCBI BLink).",mitochondria
+AT3G15660.1,"glutaredoxin 4 (GRX4); FUNCTIONS IN: metal ion binding; INVOLVED IN: cell redox homeostasis; LOCATED IN: mitochondrion; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Thioredoxin fold (InterPro:IPR012335), Glutaredoxin (InterPro:IPR002109), Glutaredoxin-related protein (InterPro:IPR004480), Thioredoxin-like fold (InterPro:IPR012336); BEST Arabidopsis thaliana protein match is: thioredoxin family protein (TAIR:AT4G04950.1); Has 5304 Blast hits to 5116 proteins in 1283 species: Archae - 26; Bacteria - 2189; Metazoa - 461; Fungi - 314; Plants - 385; Viruses - 0; Other Eukaryotes - 1929 (source: NCBI BLink).",mitochondria
+AT3G15660.2,glutaredoxin 4,mitochondria
+AT3G16170.1,AMP-dependent synthetase and ligase family protein,mitochondria; cytosol
+AT3G16260.1,tRNAse Z4,mitochondria
+AT3G16480.1,"mitochondrial processing peptidase alpha subunit (MPPalpha); FUNCTIONS IN: metalloendopeptidase activity, catalytic activity, zinc ion binding, metal ion binding; INVOLVED IN: proteolysis; LOCATED IN: in 8 components; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Peptidase M16, zinc-binding site (InterPro:IPR001431), Peptidase M16, C-terminal (InterPro:IPR007863), Peptidase M16, N-terminal (InterPro:IPR011765), Metalloenzyme, LuxS/M16 peptidase-like, metal-binding (InterPro:IPR011249), Peptidase M16, core (InterPro:IPR011237); BEST Arabidopsis thaliana protein match is: Insulinase (Peptidase family M16) protein (TAIR:AT1G51980.1); Has 6415 Blast hits to 6299 proteins in 1510 species: Archae - 10; Bacteria - 3712; Metazoa - 680; Fungi - 566; Plants - 250; Viruses - 3; Other Eukaryotes - 1194 (source: NCBI BLink).",plastid; mitochondria
+AT3G16540.1,Encodes a putative DegP protease.,mitochondria
+AT3G16550.1,Encodes a putative DegP protease.,mitochondria
+AT3G17240.1,lipoamide dehydrogenase precursor,mitochondria
+AT3G17240.2,lipoamide dehydrogenase precursor,mitochondria
+AT3G17240.3,lipoamide dehydrogenase 2,mitochondria
+AT3G17910.1,Surfeit locus 1 cytochrome c oxidase biogenesis protein,mitochondria
+AT3G18630.1,uracil dna glycosylase,mitochondria
+AT3G18970.1,mitochondrial editing factor 20,mitochondria
+AT3G19170.1,Zinc metalloprotease pitrilysin subfamily A. Signal peptide degrading enzyme targeted to mitochondria and chloroplasts. Expressed only in siliques and flowers,plastid stroma; mitochondria
+AT3G19170.2,Zinc metalloprotease pitrilysin subfamily A. Signal peptide degrading enzyme targeted to mitochondria and chloroplasts. Expressed only in siliques and flowers,plastid stroma; mitochondria
+AT3G20000.1,translocase of the outer mitochondrial membrane 40,mitochondria
+AT3G20040.1,"ATHXK4; FUNCTIONS IN: hexokinase activity, ATP binding; INVOLVED IN: glucose catabolic process to butanediol, glucose catabolic process to lactate and acetate, glycolysis, carbohydrate metabolic process, glucose catabolic process to D-lactate and ethanol; LOCATED IN: mitochondrion; EXPRESSED IN: 17 plant structures; EXPRESSED DURING: 8 growth stages; CONTAINS InterPro DOMAIN/s: Hexokinase, N-terminal (InterPro:IPR022672), Hexokinase, C-terminal (InterPro:IPR022673), Hexokinase (InterPro:IPR001312); BEST Arabidopsis thaliana protein match is: hexokinase-like 1 (TAIR:AT1G50460.1); Has 2384 Blast hits to 2114 proteins in 325 species: Archae - 0; Bacteria - 92; Metazoa - 1269; Fungi - 602; Plants - 288; Viruses - 0; Other Eukaryotes - 133 (source: NCBI BLink).",mitochondria
+AT3G20540.1,polymerase gamma 1,mitochondria
+AT3G20970.1,NFU domain protein 4,mitochondria
+AT3G20970.2,"Encodes a protein containing the NFU domain that may be involved in iron-sulfur cluster assembly. Part of a five member gene family, more closely related to NFU5 than to NFU1,2, and 3. Targeted to the mitochondrion.",mitochondria
+AT3G21390.1,Mitochondrial substrate carrier family protein,mitochondria
+AT3G22200.1,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,mitochondria
+AT3G22200.2,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,mitochondria
+AT3G22310.1,"Sequence similarity ot DEAD-box RNA helicases. Binds RNA and DNA. Involved in drought, salt and cold stress responses.",mitochondria
+AT3G22330.1,putative mitochondrial RNA helicase 2,mitochondria
+AT3G23070.1,CRM family member 3A,plastid stroma; mitochondria
+AT3G23990.1,heat shock protein 60,mitochondria
+AT3G24200.1,"FAD/NAD(P)-binding oxidoreductase family protein; FUNCTIONS IN: FAD binding, monooxygenase activity, oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NADH or NADPH as one donor, and incorporation of one atom of oxygen; INVOLVED IN: oxidation reduction, ubiquinone biosynthetic process; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 (InterPro:IPR010971), Monooxygenase, FAD-binding (InterPro:IPR002938), Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6, conserved site (InterPro:IPR018168); Has 9026 Blast hits to 9022 proteins in 1487 species: Archae - 8; Bacteria - 6037; Metazoa - 152; Fungi - 512; Plants - 106; Viruses - 0; Other Eukaryotes - 2211 (source: NCBI BLink).",mitochondria
+AT3G24200.2,FAD/NAD(P)-binding oxidoreductase family protein,mitochondria
+AT3G25120.1,Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein,mitochondria
+AT3G25660.1,Amidase family protein,plastid stroma; mitochondria
+AT3G25740.1,"Encodes a plastid localized methionine aminopeptidase. Formerly called MAP1C, now called MAP1B.",plastid; mitochondria
+AT3G27240.1,Cytochrome C1 family,mitochondria
+AT3G27280.1,"Part of protein complexes that are necessary for proficient mitochondrial function or biogenesis, thereby supporting cell division and differentiation in apical tissues",mitochondria
+AT3G27280.2,"Part of protein complexes that are necessary for proficient mitochondrial function or biogenesis, thereby supporting cell division and differentiation in apical tissues",mitochondria
+AT3G27380.1,"One of three isoforms of the iron-sulfur component of the succinate dehydrogenase complex, a component of the mitochondrial respiratory chain complex II. The product of the nuclear encoded gene is imported into the mitochondrion. Expressed during germination and post-germinative growth.",mitochondria
+AT3G27380.2,succinate dehydrogenase 2-1,mitochondria
+AT3G27930.1,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: N-terminal protein myristoylation; LOCATED IN: cellular_component unknown; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 14 growth stages; Has 35 Blast hits to 35 proteins,mitochondria
+AT3G27930.2,unknown protein; FUNCTIONS IN: molecular_function unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 14 growth stages.,mitochondria
+AT3G45770.1,"Polyketide synthase, enoylreductase family protein",mitochondria
+AT3G45770.2,"Polyketide synthase, enoylreductase family protein; FUNCTIONS IN: copper ion binding, zinc ion binding, ATP binding; INVOLVED IN: oxidation reduction, metabolic process; LOCATED IN: mitochondrion, chloroplast; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: GroES-like (InterPro:IPR011032), NAD(P)-binding domain (InterPro:IPR016040), Alcohol dehydrogenase GroES-like (InterPro:IPR013154), Alcohol dehydrogenase, C-terminal (InterPro:IPR013149), Alcohol dehydrogenase superfamily, zinc-containing (InterPro:IPR002085); BEST Arabidopsis thaliana protein match is: ARP protein (REF) (TAIR:AT1G49670.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",mitochondria
+AT3G46100.1,Histidyl-tRNA synthetase 1,plastid stroma; mitochondria
+AT3G46950.1,Mitochondrial transcription termination factor family protein; CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT1G61960.1); Has 1049 Blast hits to 852 proteins in 58 species: Archae - 2; Bacteria - 13; Metazoa - 40; Fungi - 2; Plants - 981; Viruses - 0; Other Eukaryotes - 11 (source: NCBI BLink).,mitochondria
+AT3G47833.1,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G62575.2); Has 42 Blast hits to 42 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 42; Viruses - 0; Other Eukaryotes - 0 (source:,mitochondria
+AT3G47930.1,"L-galactono-1,4-lactone dehydrogenase",mitochondria
+AT3G47930.2,"L-Galactono-1,4-lactone dehydrogenase, catalyzes the final step of ascorbate biosynthesis",mitochondria
+AT3G48000.1,aldehyde dehydrogenase 2B4,mitochondria
+AT3G48110.1,glycine-tRNA ligases,plastid stroma; mitochondria
+AT3G48680.1,gamma carbonic anhydrase-like 2,mitochondria
+AT3G49240.1,Pentatricopeptide repeat (PPR) superfamily protein,mitochondria
+AT3G49560.1,"Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein; FUNCTIONS IN: protein transporter activity, P-P-bond-hydrolysis-driven protein transmembrane transporter activity; INVOLVED IN: protein transport; LOCATED IN: in 6 components; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Sterile alpha motif, type 1 (InterPro:IPR021129), Mitochondrial inner membrane translocase complex, subunit Tim17/22 (InterPro:IPR003397); BEST Arabidopsis thaliana protein match is: Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein (TAIR:AT5G24650.1); Has 96 Blast hits to 94 proteins in 24 species: Archae - 0; Bacteria - 0; Metazoa - 4; Fungi - 0; Plants - 87; Viruses - 0; Other Eukaryotes - 5 (source: NCBI BLink).",mitochondria; envelope-inner-integral
+AT3G51790.1,transmembrane protein G1P-related 1,mitochondria
+AT3G52200.1,"Dihydrolipoamide acetyltransferase, long form protein",mitochondria
+AT3G52200.2,"dihydrolipoamide S-acetyltransferase (LTA3) mRNA, nuclear",mitochondria
+AT3G52300.1,"ATP synthase D chain, mitochondrial",mitochondria
+AT3G52300.2,"ATP synthase D chain, mitochondrial (ATPQ); FUNCTIONS IN: copper ion binding, zinc ion binding; INVOLVED IN: response to salt stress; LOCATED IN: mitochondrion, cytosolic ribosome, nucleolus, chloroplast, plasma membrane; EXPRESSED IN: 27 plant structures; EXPRESSED DURING: 16 growth stages; Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",mitochondria
+AT3G54110.1,plant uncoupling mitochondrial protein 1,mitochondria
+AT3G55400.1,methionyl-tRNA synthetase / methionine--tRNA ligase / MetRS (cpMetRS),plastid stroma; mitochondria
+AT3G55400.2,methionyl-tRNA synthetase / methionine--tRNA ligase / MetRS (cpMetRS),plastid stroma; mitochondria
+AT3G55410.1,"2-oxoglutarate dehydrogenase, E1 component",mitochondria
+AT3G55640.1,Mitochondrial substrate carrier family protein,peroxisome; mitochondria
+AT3G57090.1,Tetratricopeptide repeat (TPR)-like superfamily protein,plastid; peroxisome; mitochondria
+AT3G58140.1,phenylalanyl-tRNA synthetase class IIc family protein,plastid stroma; mitochondria
+AT3G59760.1,Arabidopsis thaliana O-acetylserine (thiol) lyase (OAS-TL) isoform oasC,mitochondria
+AT3G59760.2,Arabidopsis thaliana O-acetylserine (thiol) lyase (OAS-TL) isoform oasC,mitochondria
+AT3G59760.3,Arabidopsis thaliana O-acetylserine (thiol) lyase (OAS-TL) isoform oasC,mitochondria
+AT3G60190.1,DYNAMIN-like 1E,mitochondria
+AT3G60400.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT3G61440.1,cysteine synthase C1,mitochondria
+AT3G61440.2,"Encodes a cysteine synthase isomer CysC1. The isomer is however less effective in cysteine biosynthesis. It is involved in beta-cyanoalanine biosynthesis, an intermediate of cyanide detoxification pathway.",mitochondria
+AT3G61440.3,cysteine synthase C1,mitochondria
+AT3G61530.1,Encodes a ketopentoate hydroxymethyltransferase that appears to localize to the mitochondria. This protein is expected to play a role in pantothenate (vitamin B5) biosynthesis.,mitochondria
+AT3G61530.2,Phosphoenolpyruvate carboxylase family protein,mitochondria
+AT3G62530.1,"ARM repeat superfamily protein; FUNCTIONS IN: lyase activity, zinc ion binding, metal ion binding; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, nucleolus, chloroplast, phycobilisome; CONTAINS InterPro DOMAIN/s: Armadillo-like helical (InterPro:IPR011989), Armadillo-type fold (InterPro:IPR016024), PBS lyase HEAT-like repeat (InterPro:IPR004155); BEST Arabidopsis thaliana protein match is: ARM repeat superfamily protein (TAIR:AT3G58180.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).",plastid; mitochondria
+AT3G63150.1,Encodes a calcium binding GTPases that is localized to the mitochondrion and is involved in salt stress response.,mitochondria
+AT4G00290.1,Mechanosensitive ion channel protein,mitochondria
+AT4G00570.1,NAD-dependent malic enzyme 2,mitochondria
+AT4G01100.1,adenine nucleotide transporter 1,mitochondria
+AT4G01100.2,adenine nucleotide transporter 1,mitochondria
+AT4G01660.1,ABC transporter 1,mitochondria; mitochondria
+AT4G02580.1,"NADH-ubiquinone oxidoreductase 24 kDa subunit, putative",mitochondria
+AT4G02990.1,Mitochondrial transcription termination factor family protein,plastid; mitochondria
+AT4G03320.1,"Encodes a component of the TIC (translocon at the inner envelope membrane of chloroplasts) protein translocation machinery mediating the protein translocation across the inner envelope of plastids. The Arabidopsis genome encodes four Tic20 homologous proteins, AT1G04940(Tic20-I), AT2G47840(Tic20-II), AT4G03320(Tic20-IV) and AT5G55710(Tic20-V).",mitochondria; envelope-inner-integral
+AT4G04080.1,"Encodes a mitochondrial protein similar to E.coli IscU. In bacteria, IscU is a scaffold protein accepting sulfur and iron to build a transient Fe-S cluster,which is subsequently transferred to a target apoprotein.",mitochondria
+AT4G04320.1,malonyl-CoA decarboxylase family protein,peroxisome; mitochondria
+AT4G04320.2,malonyl-CoA decarboxylase family protein,peroxisome; mitochondria
+AT4G05020.1,NAD(P)H dehydrogenase B2,mitochondria
+AT4G05020.2,"NAD(P)H dehydrogenase B2 (NDB2); FUNCTIONS IN: disulfide oxidoreductase activity, oxidoreductase activity, FAD binding, calcium ion binding; INVOLVED IN: oxidation reduction; LOCATED IN: mitochondrion, extrinsic to mitochondrial inner membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: FAD-dependent pyridine nucleotide-disulphide oxidoreductase (InterPro:IPR013027), EF-Hand 1, calcium-binding site (InterPro:IPR018247), Pyridine nucleotide-disulphide oxidoreductase, NAD-binding region (InterPro:IPR001327), EF-HAND 2 (InterPro:IPR018249), Calcium-binding EF-hand (InterPro:IPR002048); BEST Arabidopsis thaliana protein match is: NAD(P)H dehydrogenase B3 (TAIR:AT4G21490.1).",mitochondria
+AT4G08390.1,"Encodes a chloroplastic stromal ascorbate peroxidase sAPX. Ascorbate peroxidases are enzymes that scavenge hydrogen peroxide in plant cells. Eight types of APX have been described for Arabidopsis: three cytosolic (APX1, APX2, APX6), two chloroplastic types (stromal sAPX, thylakoid tAPX), and three microsomal (APX3, APX4, APX5) isoforms.",plastid stroma; mitochondria
+AT4G08390.2,"Encodes a chloroplastic stromal ascorbate peroxidase sAPX. Ascorbate peroxidases are enzymes that scavenge hydrogen peroxide in plant cells. Eight types of APX have been described for Arabidopsis: three cytosolic (APX1, APX2, APX6), two chloroplastic types (stromal sAPX, thylakoid tAPX), and three microsomal (APX3, APX4, APX5) isoforms.",plastid stroma; mitochondria
+AT4G08390.3,"Encodes a chloroplastic stromal ascorbate peroxidase sAPX. Ascorbate peroxidases are enzymes that scavenge hydrogen peroxide in plant cells. Eight types of APX have been described for Arabidopsis: three cytosolic (APX1, APX2, APX6), two chloroplastic types (stromal sAPX, thylakoid tAPX), and three microsomal (APX3, APX4, APX5) isoforms.",plastid stroma; mitochondria
+AT4G08390.4,"Encodes a chloroplastic stromal ascorbate peroxidase sAPX. Ascorbate peroxidases are enzymes that scavenge hydrogen peroxide in plant cells. Eight types of APX have been described for Arabidopsis: three cytosolic (APX1, APX2, APX6), two chloroplastic types (stromal sAPX, thylakoid tAPX), and three microsomal (APX3, APX4, APX5) isoforms.",plastid stroma; mitochondria
+AT4G08870.1,Encodes one of the two arginase in the genome. Gene expression is enhanced by methyl jasmonate treatment. It is involved in the defense response to B.cinerea.,mitochondria
+AT4G08870.2,Encodes one of the two arginase in the genome. Gene expression is enhanced by methyl jasmonate treatment. It is involved in the defense response to B.cinerea.,mitochondria
+AT4G08900.1,arginase,mitochondria
+AT4G10040.1,cytochrome c-2,mitochondria
+AT4G11010.1,"nucleoside diphosphate kinase 3 (ndpk3), located to the inter-membrane space in mitochondria",mitochondria
+AT4G12130.1,Glycine cleavage T-protein family,mitochondria
+AT4G13850.1,Encodes a glycine-rich RNA-binding protein. Gene expression is induced by cold.,mitochondria
+AT4G13850.2,glycine-rich RNA-binding protein 2,mitochondria
+AT4G13850.3,glycine-rich RNA-binding protein 2,mitochondria
+AT4G13850.4,glycine-rich RNA-binding protein 2,mitochondria
+AT4G14050.1,Pentatricopeptide repeat (PPR) superfamily protein,mitochondria
+AT4G15720.1,Tetratricopeptide repeat (TPR)-like superfamily protein; CONTAINS InterPro DOMAIN/s: Pentatricopeptide repeat (InterPro:IPR002885); BEST Arabidopsis thaliana protein match is: mitochondrial editing factor 22 (TAIR:AT3G12770.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).,mitochondria
+AT4G15940.1,Fumarylacetoacetate (FAA) hydrolase family,mitochondria
+AT4G16450.1,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: photorespiration; LOCATED IN: mitochondrion, mitochondrial membrane, mitochondrial respiratory chain complex I, respiratory chain complex I, membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).",mitochondria
+AT4G16450.2,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: photorespiration; LOCATED IN: mitochondrion, mitochondrial membrane, mitochondrial respiratory chain complex I, respiratory chain complex I; EXPRESSED IN: 25 plant structures; EX",mitochondria
+AT4G17300.1,Class II aminoacyl-tRNA and biotin synthetases superfamily protein,plastid stroma; mitochondria
+AT4G20020.1,Encodes a protein involved in RNA editing in mitochondria.,mitochondria
+AT4G20020.2,unknown protein; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT5G44780.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Euka,mitochondria
+AT4G20150.1,"unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, plasma membrane, mitochondrial respiratory chain complex I, respiratory chain complex I; EXPRESSED IN: 24 plant structures;",mitochondria
+AT4G22220.1,SufE/NifU family protein,mitochondria
+AT4G23660.1,Encodes para-hydroxy benzoate polyprenyl diphosphate transferase. The enzyme was shown to be able to use a wide range of prenyl substrates : from GPP (C10) to decaprenyl diphosphate (C50).,mitochondria
+AT4G23660.2,polyprenyltransferase 1,mitochondria
+AT4G23660.3,Encodes para-hydroxy benzoate polyprenyl diphosphate transferase. The enzyme was shown to be able to use a wide range of prenyl substrates : from GPP (C10) to decaprenyl diphosphate (C50).,mitochondria
+AT4G25200.1,mitochondrion-localized small heat shock protein 23.6,mitochondria
+AT4G25840.1,"glycerol-3-phosphatase 1 (GPP1); FUNCTIONS IN: hydrolase activity, catalytic activity; INVOLVED IN: metabolic process; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Haloacid dehalogenase-like hydrolase (InterPro:IPR005834), HAD-superfamily hydrolase, subfamily IA, variant 3 (InterPro:IPR006402); BEST Arabidopsis thaliana protein match is: Haloacid dehalogenase-like hydrolase (HAD) superfamily protein (TAIR:AT5G57440.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).",mitochondria
+AT4G26210.1,"Mitochondrial ATP synthase subunit G protein; FUNCTIONS IN: hydrogen ion transmembrane transporter activity; INVOLVED IN: proton transport, ATP synthesis coupled proton transport; LOCATED IN: mitochondrial proton-transporting ATP synthase complex, coupling factor F(o); EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: ATPase, F0 complex, subunit G, mitochondrial (InterPro:IPR006808); BEST Arabidopsis thaliana protein match is: Mitochondrial ATP synthase subunit G protein (TAIR:AT4G29480.1); Has 96 Blast hits to 96 proteins in 21 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 93; Viruses - 0; Other Eukaryotes - 3 (source: NCBI BLink).",mitochondria
+AT4G26210.2,Mitochondrial ATP synthase subunit G protein,mitochondria
+AT4G26910.1,Dihydrolipoamide succinyltransferase,mitochondria
+AT4G26910.2,"Dihydrolipoamide succinyltransferase; FUNCTIONS IN: zinc ion binding, acyltransferase activity; INVOLVED IN: tricarboxylic acid cycle, metabolic process; LOCATED IN: mitochondrion, membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: 2-oxo acid dehydrogenase, lipoyl-binding site (InterPro:IPR003016), Dihydrolipoamide succinyltransferase (InterPro:IPR006255), 2-oxoacid dehydrogenase acyltransferase, catalytic domain (InterPro:IPR001078), Single hybrid motif (InterPro:IPR011053), Biotin/lipoyl attachment (InterPro:IPR000089); BEST Arabidopsis thaliana protein match is: Dihydrolipoamide succinyltransferase (TAIR:AT5G55070.1); Has 25893 Blast hits to 21481 proteins in 2394 species: Archae - 160; Bacteria - 15396; Metazoa - 785; Fungi - 512; Plants - 432; Viruses - 4; Other Eukaryotes - 8604 (source: NCBI BLink).",mitochondria
+AT4G26910.3,Dihydrolipoamide succinyltransferase,mitochondria
+AT4G26970.1,"Encodes an aconitase that can catalyze the conversion of citrate to isocitrate through a cis-aconitate intermediate, indicating that it may participate in the TCA cycle and other primary metabolic pathways. The protein is believed to accumulate in the mitochondria and the cytosol. It affects CSD2 (At2g28190 - a superoxide dismutase) transcript levels and may play a role in the response to oxidative stress. One member of the family (ACO1 - At35830) was shown to specifically bind to the 5' UTR of CSD2 in vitro.",mitochondria
+AT4G28060.1,"Cytochrome c oxidase, subunit Vib family protein; FUNCTIONS IN: cytochrome-c oxidase activity; LOCATED IN: mitochondrion; CONTAINS InterPro DOMAIN/s: Cytochrome c oxidase, subunit VIb (InterPro:IPR003213); BEST Arabidopsis thaliana protein match is: Cytochrome c oxidase, subunit Vib family protein (TAIR:AT5G57815.1); Has 578 Blast hits to 578 proteins in 174 species: Archae - 0; Bacteria - 0; Metazoa - 306; Fungi - 118; Plants - 134; Viruses - 0; Other Eukaryotes - 20 (source: NCBI BLink).",mitochondria
+AT4G28220.1,NAD(P)H dehydrogenase B1,peroxisome; mitochondria
+AT4G28390.1,ADP/ATP carrier 3,mitochondria
+AT4G28510.1,prohibitin 1 (Atphb1),mitochondria
+AT4G29130.1,hexokinase 1,mitochondria
+AT4G29480.1,"Mitochondrial ATP synthase subunit G protein; FUNCTIONS IN: hydrogen ion transmembrane transporter activity; INVOLVED IN: proton transport, ATP synthesis coupled proton transport; LOCATED IN: mitochondrion; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: ATPase, F0 complex, subunit G, mitochondrial (InterPro:IPR006808); BEST Arabidopsis thaliana protein match is: Mitochondrial ATP synthase subunit G protein (TAIR:AT2G19680.2); Has 96 Blast hits to 96 proteins in 21 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 93; Viruses - 0; Other Eukaryotes - 3 (source: NCBI BLink).",mitochondria
+AT4G30490.1,AFG1-like ATPase family protein,plastid; mitochondria
+AT4G30700.1,Pentatricopeptide repeat (PPR) superfamily protein,mitochondria; mitochondria
+AT4G31810.1,ATP-dependent caseinolytic (Clp) protease/crotonase family protein,mitochondria
+AT4G32400.1,Mitochondrial substrate carrier family protein,mitochondria; envelope-inner-integral
+AT4G32470.1,"Cytochrome bd ubiquinol oxidase, 14kDa subunit; FUNCTIONS IN: ubiquinol-cytochrome-c reductase activity; INVOLVED IN: mitochondrial electron transport, ubiquinol to cytochrome c; LOCATED IN: mitochondrion, plasma membrane, plastid, mitochondrial respiratory chain complex III, membrane; EXPRESSED IN: 26 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Cytochrome d ubiquinol oxidase, 14kDa subunit (InterPro:IPR003197); BEST Arabidopsis thaliana protein match is: Cytochrome bd ubiquinol oxidase, 14kDa subunit (TAIR:AT5G25450.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).",mitochondria
+AT4G32915.1,"FUNCTIONS IN: molecular_function unknown; INVOLVED IN: regulation of translational fidelity; LOCATED IN: chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Glu-tRNAGln amidotransferase, C s",plastid stroma; mitochondria
+AT4G33010.1,glycine decarboxylase P-protein 1,mitochondria
+AT4G33010.2,"glycine decarboxylase P-protein 1 (GLDP1); FUNCTIONS IN: glycine dehydrogenase (decarboxylating) activity, protein binding; INVOLVED IN: glycine catabolic process, response to cadmium ion, glycine decarboxylation via glycine cleavage system; LOCATED IN: mitochondrion, apoplast, glycine cleavage complex, chloroplast; EXPRESSED IN: 31 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Pyridoxal phosphate-dependent transferase, major domain (InterPro:IPR015424), Glycine cleavage system P-protein-like (InterPro:IPR020581), Glycine cleavage system P-protein (InterPro:IPR003437), Pyridoxal phosphate-dependent transferase, major region, subdomain 1 (InterPro:IPR015421), Glycine cleavage system P-protein, N-terminal (InterPro:IPR020580); BEST Arabidopsis thaliana protein match is: glycine decarboxylase P-protein 2 (TAIR:AT2G26080.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).",mitochondria
+AT4G33760.1,"tRNA synthetase class II (D, K and N) family protein",plastid stroma; mitochondria
+AT4G34030.1,3-methylcrotonyl-CoA carboxylase,mitochondria
+AT4G34620.1,"Encodes ribosomal protein S16, has embryo-defective lethal mutant phenotype",plastid ribosome; mitochondria
+AT4G34700.1,LYR family of Fe/S cluster biogenesis protein,mitochondria
+AT4G35260.1,isocitrate dehydrogenase 1,mitochondria
+AT4G35460.1,NADPH-dependent thioredoxin reductase 1 (NTR1. Similar to E.coli NTR and has conserved NADPH binding domains.,mitochondria; cytosol
+AT4G35830.1,"Encodes an aconitase that can catalyze the conversion of citrate to isocitrate through a cis-aconitate intermediate, indicating that it may participate in the TCA cycle and other primary metabolic pathways. The protein is believed to accumulate in the mitochondria and the cytosol. It affects CSD2 (At2g28190 - a superoxide dismutase) transcript levels and may play a role in the response to oxidative stress. This enzyme can also specifically bind to the 5' UTR of CSD2 in vitro.",mitochondria; cytosol
+AT4G35830.2,aconitase 1,mitochondria; cytosol
+AT4G35850.1,Pentatricopeptide repeat (PPR) superfamily protein,mitochondria
+AT4G36400.1,Encodes a (D)-2-hydroxyglutarate dehydrogenase.,mitochondria
+AT4G36400.2,FAD-linked oxidases family protein,mitochondria
+AT4G37000.1,accelerated cell death 2 (ACD2),thylakoid; mitochondria
+AT4G37040.1,methionine aminopeptidase 1D,plastid stroma; mitochondria
+AT4G37840.1,Encodes a putative hexokinase.,mitochondria
+AT4G37910.1,mitochondrial heat shock protein 70-1,mitochondria
+AT4G37930.1,serine transhydroxymethyltransferase 1,mitochondria
+AT4G38160.1,Mitochondrial transcription termination factor family protein,plastid stroma; mitochondria
+AT4G38160.2,pigment defective 191 (pde191); CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT2G21710.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).,plastid stroma; mitochondria
+AT4G38160.3,pigment defective 191 (pde191); FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Mitochodrial transcription termination factor-related (InterPro:IPR003690); BEST Arabidopsis thaliana protein match is: Mitochondrial transcription termination factor family protein (TAIR:AT2G21710.1).,plastid stroma; mitochondria
+AT4G39660.1,alanine:glyoxylate aminotransferase 2,peroxisome; mitochondria
+AT4G39690.1,FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion; EXPRESSED IN: 26 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Mitochondrial inner membrane protein Mito,mitochondria
+AT5G02050.1,"Mitochondrial glycoprotein family protein; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast, mitochondrial matrix; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Mitochondrial glycoprotein (InterPro:IPR003428); BEST Arabidopsis thaliana protein match is: Mitochondrial glycoprotein family protein (TAIR:AT3G55605.1); Has 498 Blast hits to 497 proteins in 162 species: Archae - 0; Bacteria - 2; Metazoa - 46; Fungi - 134; Plants - 219; Viruses - 0; Other Eukaryotes - 97 (source: NCBI BLink).",mitochondria
+AT5G03290.1,isocitrate dehydrogenase V,mitochondria
+AT5G04130.1,DNA GYRASE B2,plastid nucleoid; mitochondria
+AT5G06410.1,DNAJ heat shock N-terminal domain-containing protein,mitochondria
+AT5G06580.1,FAD-linked oxidases family protein,mitochondria
+AT5G06810.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT5G07320.1,Mitochondrial substrate carrier family protein,mitochondria
+AT5G07440.1,Encodes the beta-subunit of the glutamate dehydrogenase. The enzyme is almost exclusively found in the mitochondria of stem and leaf companion cells.,mitochondria
+AT5G07440.2,Encodes the alpha-subunit of the glutamate dehydrogenase. The enzyme is almost exclusively found in the mitochondria of stem and leaf companion cells.,mitochondria
+AT5G07440.3,Encodes the alpha-subunit of the glutamate dehydrogenase. The enzyme is almost exclusively found in the mitochondria of stem and leaf companion cells.,mitochondria
+AT5G07900.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT5G08060.1,unknown protein; FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 16 growth stages; Has 42 Blast hits to 42 proteins in 17 species: Arch,mitochondria
+AT5G08300.1,"Succinyl-CoA ligase, alpha subunit",mitochondria
+AT5G08530.1,51 kDa subunit of complex I,mitochondria
+AT5G08670.1,"Encodes the mitochondrial ATP synthase beta-subunit. This subunit is encoded by a multigene family of three members (At5g08670, At5g08680, At5g08690) that shared 98% sequence identity at the amino acid level.",mitochondria
+AT5G08680.1,ATP synthase alpha/beta family protein,mitochondria
+AT5G08690.1,"Encodes the mitochondrial ATP synthase beta-subunit. This subunit is encoded by a multigene family of three members (At5g08670, At5g08680, At5g08690) that shared 98% sequence identity at the amino acid level.",mitochondria
+AT5G08740.1,NAD(P)H dehydrogenase C1,plastoglobules; mitochondria
+AT5G09230.1,"Encodes SRT2, a member of the SIR2 (sirtuin) family HDAC (histone deacetylase) (SRT1/AT5g55760, SRT2/AT5G09230).",mitochondria
+AT5G09230.2,"Encodes SRT2, a member of the SIR2 (sirtuin) family HDAC (histone deacetylase) (SRT1/AT5g55760, SRT2/AT5G09230).",mitochondria
+AT5G09230.3,"Encodes SRT2, a member of the SIR2 (sirtuin) family HDAC (histone deacetylase) (SRT1/AT5g55760, SRT2/AT5G09230).",mitochondria
+AT5G09230.4,"Encodes SRT2, a member of the SIR2 (sirtuin) family HDAC (histone deacetylase) (SRT1/AT5g55760, SRT2/AT5G09230).",mitochondria
+AT5G09230.5,sirtuin 2,mitochondria
+AT5G09230.6,"Encodes SRT2, a member of the SIR2 (sirtuin) family HDAC (histone deacetylase) (SRT1/AT5g55760, SRT2/AT5G09230).",mitochondria
+AT5G09420.1,translocon at the outer membrane of chloroplasts 64-V,mitochondria
+AT5G09590.1,mitochondrial HSO70 2,mitochondria
+AT5G09950.1,Tetratricopeptide repeat (TPR)-like superfamily protein,mitochondria
+AT5G10860.1,Cystathionine beta-synthase (CBS) family protein,mitochondria
+AT5G11690.1,mitochondrial inner membrane translocase,mitochondria
+AT5G11770.1,"NADH-ubiquinone oxidoreductase 20 kDa subunit, mitochondrial",mitochondria
+AT5G12290.1,dgd1 suppressor 1,mitochondria
+AT5G13430.1,Ubiquinol-cytochrome C reductase iron-sulfur subunit,mitochondria
+AT5G13450.1,delta subunit of Mt ATP synthase,mitochondria
+AT5G13450.2,"delta subunit of Mt ATP synthase (ATP5); FUNCTIONS IN: hydrogen ion transporting ATP synthase activity, rotational mechanism, cobalt ion binding, zinc ion binding; INVOLVED IN: ATP synthesis coupled proton transport; LOCATED IN: mitochondrion, chloroplast, plasma membrane, membrane, mitochondrial proton-transporting ATP synthase complex, catalytic core F(1); EXPRESSED IN: 27 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: ATPase, F1 complex, OSCP/delta subunit (InterPro:IPR000711); Has 5632 Blast hits to 5632 proteins in 1944 species: Archae - 0; Bacteria - 3697; Metazoa - 218; Fungi - 134; Plants - 154; Viruses - 0; Other Eukaryotes - 1429 (source: NCBI BLink).",mitochondria
+AT5G13490.1,Encodes mitochondrial ADP/ATP carrier,mitochondria
+AT5G13490.2,ADP/ATP carrier 2,mitochondria
+AT5G14040.1,phosphate transporter 3;1,mitochondria
+AT5G14580.1,"polyribonucleotide nucleotidyltransferase, putative",mitochondria
+AT5G14590.1,Isocitrate/isopropylmalate dehydrogenase family protein,mitochondria
+AT5G14660.1,"Encodes a peptide deformylase PDF1B. The crystal structure has been determined at a resolution of 0.24 nm (Biochem J, 2008, vol 413:417-427).",plastid stroma; mitochondria
+AT5G14660.2,peptide deformylase 1B,plastid stroma; mitochondria
+AT5G14780.1,formate dehydrogenase,mitochondria
+AT5G15090.1,"Encodes a voltage-dependent anion channel (VDAC: AT3G01280/VDAC1, AT5G67500/VDAC2, AT5G15090/VDAC3, AT5G57490/VDAC4, AT5G15090/VDAC5). VDACs are reported to be porin-type, beta-barrel diffusion pores. They are prominently localized in the outer mitochondrial membrane and are involved in metabolite exchange between the organelle and the cytosol.",mitochondria
+AT5G15090.2,voltage dependent anion channel 3,mitochondria
+AT5G15700.1,DNA/RNA polymerases superfamily protein,plastid; mitochondria
+AT5G17660.1,tRNA (guanine-N-7) methyltransferase,plastid; mitochondria
+AT5G18170.1,glutamate dehydrogenase 1,mitochondria
+AT5G19020.1,mitochondrial editing factor 18,mitochondria
+AT5G19760.1,Mitochondrial substrate carrier family protein,mitochondria
+AT5G22800.1,"Alanyl-tRNA synthetase, class IIc",plastid stroma; mitochondria
+AT5G23040.1,Protein of unknown function (DUF3353),mitochondria; envelope
+AT5G23060.1,calcium sensing receptor,thylakoid-integral; mitochondria
+AT5G23140.1,nuclear-encoded CLP protease P7,mitochondria
+AT5G23250.1,"Succinyl-CoA ligase, alpha subunit",mitochondria
+AT5G23250.2,"Succinyl-CoA ligase, alpha subunit",mitochondria
+AT5G23395.1,Cox19-like CHCH family protein,peroxisome; mitochondria
+AT5G23690.1,Polynucleotide adenylyltransferase family protein,mitochondria
+AT5G24650.1,Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein,mitochondria; envelope-inner-integral
+AT5G26830.1,Threonyl-tRNA synthetase,mitochondria
+AT5G26860.1,lon protease 1,mitochondria
+AT5G26940.1,Encodes a Mg2+-dependent DNA exonuclease that degrades organelle DNA during Arabidopsis pollen development.,plastid; mitochondria
+AT5G26940.2,Encodes a Mg2+-dependent DNA exonuclease that degrades organelle DNA during Arabidopsis pollen development.,plastid; mitochondria
+AT5G26940.3,Encodes a Mg2+-dependent DNA exonuclease that degrades organelle DNA during Arabidopsis pollen development.,plastid; mitochondria
+AT5G26940.4,"Polynucleotidyl transferase, ribonuclease H-like superfamily protein",plastid; mitochondria
+AT5G27540.1,"Encodes a protein with similarity to GTPases that is localized to the mitochondrion. Involved in embryogenesis, pollen tube growth and required for mitochondrial development.",mitochondria
+AT5G27540.2,MIRO-related GTP-ase 1,mitochondria
+AT5G27660.1,Trypsin family protein with PDZ domain,mitochondria
+AT5G36250.1,Encodes a myristoylated 2C-type protein phosphatase that interacts with the catalytic subunit of SnRK1.,mitochondria
+AT5G36950.1,DegP protease 10,plastid; mitochondria
+AT5G37510.1,"NADH-ubiquinone dehydrogenase, mitochondrial, putative",mitochondria
+AT5G37510.2,Encodes a subunit of the 400 kDa subcomplex of the mitochondrial NADH dehydrogenase (complex I). The protein has been isolated in the male gametophyte.,mitochondria
+AT5G39950.1,thioredoxin 2,mitochondria; cytosol
+AT5G40650.1,"One of three isoforms of the iron-sulfur component of the succinate dehydrogenase complex, a component of the mitochondrial respiratory chain complex II. The product of the nuclear encoded gene is imported into the mitochondrion. Expressed during germination and post-germinative growth.",mitochondria
+AT5G40810.1,Cytochrome C1 family,mitochondria
+AT5G40810.2,Cytochrome C1 family,mitochondria
+AT5G43430.1,electron transfer flavoprotein beta,mitochondria
+AT5G43430.2,"Encodes the electron transfer flavoprotein ETF beta, a putative subunit of the mitochondrial electron transfer flavoprotein complex (ETF alpha is At1g50940) in Arabidopsis. Mutations of the ETF beta gene result in accelerated senescence and early death compared to wild-type during extended darkness. Also involved in the catabolism of leucine and chlorophyll degradation pathway activated during darkness-induced carbohydrate deprivation.",mitochondria
+AT5G43430.3,"Encodes the electron transfer flavoprotein ETF beta, a putative subunit of the mitochondrial electron transfer flavoprotein complex (ETF alpha is At1g50940) in Arabidopsis. Mutations of the ETF beta gene result in accelerated senescence and early death compared to wild-type during extended darkness. Also involved in the catabolism of leucine and chlorophyll degradation pathway activated during darkness-induced carbohydrate deprivation.",mitochondria
+AT5G44785.1,organellar single-stranded DNA binding protein 3,mitochondria
+AT5G44785.2,"organellar single-stranded DNA binding protein 3 (OSB3); FUNCTIONS IN: single-stranded DNA binding; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Nucleic acid-binding, OB-fold (InterPro:IPR012340), Nucleic acid-binding, OB-fold-like (InterPro:IPR016027), Primosome PriB/single-strand DNA-binding (InterPro:IPR000424); BEST Arabidopsis thaliana protein match is: plastid transcriptionally active 9 (TAIR:AT4G20010.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",mitochondria
+AT5G46180.1,ornithine-delta-aminotransferase,mitochondria
+AT5G47030.1,"ATPase, F1 complex, delta/epsilon subunit",mitochondria
+AT5G48970.1,Mitochondrial substrate carrier family protein,mitochondria
+AT5G49840.1,ATP-dependent Clp protease,mitochondria
+AT5G50370.1,"Adenylate kinase family protein; FUNCTIONS IN: copper ion binding, adenylate kinase activity; INVOLVED IN: nucleobase, nucleoside, nucleotide and nucleic acid metabolic process, anaerobic respiration, nucleotide metabolic process; LOCATED IN: mitochondrion, plasma membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Adenylate kinase, active site lid domain (InterPro:IPR007862), Adenylate kinase, subfamily (InterPro:IPR006259), Adenylate kinase (InterPro:IPR000850); BEST Arabidopsis thaliana protein match is: adenylate kinase 1 (TAIR:AT5G63400.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).",mitochondria
+AT5G50850.1,Transketolase family protein,mitochondria
+AT5G51050.1,Mitochondrial substrate carrier family protein,mitochondria
+AT5G51080.1,"RNase H family protein; FUNCTIONS IN: ribonuclease H activity, nuclease activity, nucleic acid binding; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: 11 plant structures; EXPRESSED DURING: 4 anthesis, C globular stage, petal differentiation and expansion stage, E expanded cotyledon stage, D bilateral stage; CONTAINS InterPro DOMAIN/s: Ribosomal protein L9/RNase H1, N-terminal (InterPro:IPR009027), Polynucleotidyl transferase, ribonuclease H fold (InterPro:IPR012337), Ribonuclease H (InterPro:IPR002156); BEST Arabidopsis thaliana protein match is: RNase H family protein (TAIR:AT1G24090.1); Has 2876 Blast hits to 2869 proteins in 551 species: Archae - 74; Bacteria - 1114; Metazoa - 4; Fungi - 0; Plants - 1278; Viruses - 0; Other Eukaryotes - 406 (source: NCBI BLink).",mitochondria
+AT5G51080.2,"RNase H family protein; FUNCTIONS IN: ribonuclease H activity, nuclease activity, nucleic acid binding; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: 11 plant structures; EXPRESSED DURING: 4 anthesis, C globular stage, petal differentiation and expansion stage, E expanded cotyledon stage, D bilateral stage; CONTAINS InterPro DOMAIN/s: Ribosomal protein L9/RNase H1, N-terminal (InterPro:IPR009027), Polynucleotidyl transferase, ribonuclease H fold (InterPro:IPR012337), Ribonuclease H (InterPro:IPR002156); BEST Arabidopsis thaliana protein match is: RNase H family protein (TAIR:AT1G24090.1); Has 2874 Blast hits to 2867 proteins in 550 species: Archae - 74; Bacteria - 1112; Metazoa - 4; Fungi - 0; Plants - 1278; Viruses - 0; Other Eukaryotes - 406 (source: NCBI BLink).",mitochondria
+AT5G51080.3,"RNase H family protein; FUNCTIONS IN: ribonuclease H activity, nuclease activity, nucleic acid binding; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: 11 plant structures; EXPRESSED DURING: 4 anthesis, C globular stage, petal differentiation and expansion stage, E expanded cotyledon stage, D bilateral stage; CONTAINS InterPro DOMAIN/s: Ribosomal protein L9/RNase H1, N-terminal (InterPro:IPR009027), Polynucleotidyl transferase, ribonuclease H fold (InterPro:IPR012337), Ribonuclease H (InterPro:IPR002156); BEST Arabidopsis thaliana protein match is: RNase H family protein (TAIR:AT1G24090.1); Has 2888 Blast hits to 2881 proteins in 553 species: Archae - 74; Bacteria - 1122; Metazoa - 4; Fungi - 0; Plants - 1278; Viruses - 0; Other Eukaryotes - 410 (source: NCBI BLink).",mitochondria
+AT5G51440.1,"HSP20-like chaperones superfamily protein; CONTAINS InterPro DOMAIN/s: Heat shock protein Hsp20 (InterPro:IPR002068), HSP20-like chaperone (InterPro:IPR008978); BEST Arabidopsis thaliana protein match is: mitochondrion-localized small heat shock protein 23.6 (TAIR:AT4G25200.1); Has 3995 Blast hits to 3995 proteins in 1037 species: Archae - 138; Bacteria - 2214; Metazoa - 5; Fungi - 114; Plants - 1208; Viruses - 0; Other Eukaryotes - 316 (source: NCBI BLink).",mitochondria
+AT5G51540.1,Zincin-like metalloproteases family protein,mitochondria
+AT5G51740.1,Peptidase family M48 family protein,mitochondria
+AT5G52520.1,Class II aaRS and biotin synthetases superfamily protein,plastid stroma; mitochondria
+AT5G52630.1,mitochondrial RNAediting factor 1,mitochondria
+AT5G52840.1,NADH-ubiquinone oxidoreductase-related,mitochondria
+AT5G53350.1,CLP protease regulatory subunit X,mitochondria
+AT5G54580.1,RNA-binding (RRM/RBD/RNP motifs) family protein,mitochondria
+AT5G54770.1,"thiazole biosynthetic enzyme, chloroplast (ARA6) (THI1) (THI4)",plastid stroma; mitochondria
+AT5G55070.1,"Dihydrolipoamide succinyltransferase; FUNCTIONS IN: zinc ion binding, acyltransferase activity; INVOLVED IN: response to oxidative stress, metabolic process; LOCATED IN: cytosolic ribosome, mitochondrion; EXPRESSED IN: 27 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: 2-oxo acid dehydrogenase, lipoyl-binding site (InterPro:IPR003016), Dihydrolipoamide succinyltransferase (InterPro:IPR006255), 2-oxoacid dehydrogenase acyltransferase, catalytic domain (InterPro:IPR001078), Single hybrid motif (InterPro:IPR011053), Biotin/lipoyl attachment (InterPro:IPR000089); BEST Arabidopsis thaliana protein match is: Dihydrolipoamide succinyltransferase (TAIR:AT4G26910.2); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).",mitochondria
+AT5G55200.1,Co-chaperone GrpE family protein,mitochondria
+AT5G55610.1,"unknown protein; LOCATED IN: mitochondrion, chloroplast, plastid, membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 13 growth stages; Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 3",mitochondria
+AT5G55610.2,"unknown protein; LOCATED IN: mitochondrion, plastid, membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 13 growth stages; Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).",mitochondria
+AT5G56090.1,cytochrome c oxidase 15,mitochondria
+AT5G57300.1,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein; FUNCTIONS IN: methyltransferase activity; LOCATED IN: mitochondrion; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: UbiE/COQ5 methyltransferase (InterPro:IPR004033); BEST Arabidopsis thaliana protein match is: S-adenosyl-L-methionine-dependent methyltransferases superfamily protein (TAIR:AT1G23360.1); Has 8727 Blast hits to 8715 proteins in 2245 species: Archae - 103; Bacteria - 5342; Metazoa - 137; Fungi - 134; Plants - 200; Viruses - 0; Other Eukaryotes - 2811 (source: NCBI BLink).,mitochondria
+AT5G57300.2,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein; FUNCTIONS IN: methyltransferase activity; LOCATED IN: mitochondrion; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: UbiE/COQ5 methyltransferase (InterPro:IPR004033); BEST Arabidopsis thaliana protein match is: S-adenosyl-L-methionine-dependent methyltransferases superfamily protein (TAIR:AT1G23360.1); Has 8727 Blast hits to 8715 proteins in 2245 species: Archae - 103; Bacteria - 5342; Metazoa - 137; Fungi - 134; Plants - 200; Viruses - 0; Other Eukaryotes - 2811 (source: NCBI BLink).,mitochondria
+AT5G57300.3,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,mitochondria
+AT5G57490.1,voltage dependent anion channel 4,mitochondria
+AT5G58270.1,ABC transporter of the mitochondrion 3,mitochondria
+AT5G61030.1,glycine-rich RNA-binding protein 3,mitochondria
+AT5G61810.1,Encodes a mitochondrial ATP-Mg/Pi transporter. Binds to calcium.,mitochondria
+AT5G61810.2,Encodes a mitochondrial ATP-Mg/Pi transporter. Binds to calcium.,mitochondria
+AT5G62530.1,aldehyde dehydrogenase 12A1,mitochondria
+AT5G62575.1,predicted to encode subunit 7 of mitochondrial complex II and to participate in the respiratory chain,mitochondria
+AT5G63510.1,Encodes a mitochondrial gamma carbonic anhydrase-like protein. Component of the NADH dehydrogenase complex.,mitochondria
+AT5G63510.2,Encodes a mitochondrial gamma carbonic anhydrase-like protein. Component of the NADH dehydrogenase complex.,mitochondria
+AT5G63620.2,GroES-like zinc-binding alcohol dehydrogenase family protein,mitochondria
+AT5G64050.1,glutamate tRNA synthetase,plastid stroma; mitochondria
+AT5G64950.1,Mitochondrial transcription termination factor family protein,mitochondria
+AT5G65620.1,Zincin-like metalloproteases family protein,plastid stroma; mitochondria
+AT5G65720.1,nitrogen fixation S (NIFS)-like 1,mitochondria
+AT5G65720.2,Encodes a cysteine desulfurase whose activity is dependent on AtSufE activation. It requires pyridoxal phosphate (PLP) for proper folding. Its catalytic efficiency is increase three-fold in the presence of AtFH (frataxin).,mitochondria
+AT5G66510.1,Encodes mitochondrial gamma carbonic anhydrase. Component of the NADH dehydrogenase complex.,mitochondria
+AT5G66510.2,Encodes mitochondrial gamma carbonic anhydrase. Component of the NADH dehydrogenase complex.,mitochondria
+AT5G66760.1,succinate dehydrogenase 1-1,mitochondria
+AT5G67500.1,voltage dependent anion channel 2,mitochondria
+AT5G67500.2,"Encodes a voltage-dependent anion channel (VDAC: AT3G01280/VDAC1, AT5G67500/VDAC2, AT5G15090/VDAC3, AT5G57490/VDAC4, AT5G15090/VDAC5). VDACs are reported to be porin-type, beta-barrel diffusion pores. They are prominently localized in the outer mitochondrial membrane and are involved in metabolite exchange between the organelle and the cytosol.",mitochondria
+AT5G67590.1,NADH-ubiquinone oxidoreductase-related,mitochondria
+ATMG00060.1,NADH dehydrogenase subunit 5C,mitochondria
+ATMG00070.1,NADH dehydrogenase subunit 9,mitochondria
+ATMG00090.1,structural constituent of ribosome;protein binding,mitochondria
+ATMG00160.1,cytochrome oxidase 2,mitochondria
+ATMG00270.1,NADH dehydrogenase 6,mitochondria
+ATMG00285.1,"encodes subunit of mitochondrial NAD(P)H dehydrogenase that is trans-spliced from two precursors, NAD2A and NAD2B.",mitochondria
+ATMG00290.1,mitochondrial ribosomal protein S4,mitochondria
+ATMG00300.1,Gag-Pol-related retrotransposon family protein,mitochondria
+ATMG00410.1,ATPase subunit 6-1,mitochondria
+ATMG00480.1,"Plant mitochondrial ATPase, F0 complex, subunit 8 protein",mitochondria
+ATMG00510.1,NADH dehydrogenase subunit 7,mitochondria
+ATMG00513.1,"Mitochondrial NADH dehydrogenase subunit 5. The gene is trans-spliced from three different pre-cursors, NAD5a, NAD5b and NAD5c.",mitochondria
+ATMG00516.1,"Encodes subunit of mitochondrial NAD(P)H dehydrogenase that is trans-spliced from three precursors, NAD1A, NAD1B, and NAD1C.",mitochondria
+ATMG00580.1,NADH dehydrogenase subunit 4,mitochondria
+ATMG00640.1,"hydrogen ion transporting ATP synthases, rotational mechanism;zinc ion binding",mitochondria
+ATMG00665.1,"Mitochondrial NADH dehydrogenase subunit 5. The gene is trans-spliced from three different pre-cursors, NAD5a, NAD5b and NAD5c.",mitochondria
+ATMG00710.1,"Polynucleotidyl transferase, ribonuclease H-like superfamily protein",mitochondria
+ATMG00730.1,cytochrome c oxidase subunit 3,mitochondria
+ATMG00990.1,NADH dehydrogenase 3,mitochondria
+ATMG01080.1,mitochondrial F0-ATPase subunit 9,mitochondria
+ATMG01120.1,"Encodes subunit of mitochondrial NAD(P)H dehydrogenase that is trans-spliced from three precursors, NAD1A, NAD1B, and NAD1C.",mitochondria
+ATMG01170.1,ATPase subunit 6,mitochondria
+ATMG01190.1,ATP synthase subunit 1,mitochondria
+ATMG01275.1,NADH dehydrogenase 1A,mitochondria
+ATMG01320.1,NADH dehydrogenase 2B,mitochondria
+ATMG01360.1,cytochrome oxidase,mitochondria
